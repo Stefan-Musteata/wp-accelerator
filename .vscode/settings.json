@@ -1,0 +1,12 @@
+{
+  "task.allowAutomaticTasks": "on",
+  "sftp.printDebugLog": true,
+  "emeraldwalk.runonsave": {
+    "commands": [
+      {
+        "match": "assets[\\\\/]scss[\\\\/].*\\.scss$",
+        "cmd": "npm run build:css"
+      }
+    ]
+  }
+}
