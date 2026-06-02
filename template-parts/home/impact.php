@@ -38,8 +38,6 @@
 
 									<div class="icon">
 
-										<div class="icon-wrap">
-
 											<img
 
 												src="<?php echo esc_url( is_array( $item['img'] ) ? $item['img']['url'] : $item['img'] ); ?>"
@@ -49,8 +47,6 @@
 												aria-hidden="true"
 
 											>
-
-										</div>
 
 									</div>
 

@@ -48,6 +48,11 @@
   max-height: 65px;
   width: auto;
 }
+@media (max-width: 767px) {
+  .site-header .branding .custom-logo-link img {
+    max-height: 40px;
+  }
+}
 .site-header .navbar-brand,
 .site-header .nav-link:hover,
 .site-header .current-menu-item > .nav-link {
@@ -134,7 +139,6 @@
   justify-content: center;
   max-width: 820px;
   margin: 0 auto;
-  padding: 3rem 1.5rem;
   text-align: center;
 }
 .slider-intro .content .hero-title {
@@ -220,12 +224,15 @@
   box-shadow: 0 8px 24px rgba(15, 39, 68, 0.06);
 }
 .impact-card .icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   flex: 0 0 auto;
   padding-right: 1.25rem;
   margin-right: 1.25rem;
   border-right: 1px solid #e3e8ef;
 }
-.impact-card .icon-wrap img {
+.impact-card img {
   width: 80px;
   height: 80px;
   border-radius: 100%;
@@ -747,6 +754,11 @@ a:hover {
   max-height: 56px;
   width: auto;
   filter: brightness(0) invert(1);
+}
+@media (max-width: 767px) {
+  .site-footer .brand .custom-logo-link img {
+    max-height: 40px;
+  }
 }
 .site-footer .brand .name {
   display: inline-block;

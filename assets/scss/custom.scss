@@ -61,6 +61,10 @@ $da-purple-dark: #4e1d68;
     .branding .custom-logo-link img {
         max-height: 65px;
         width: auto;
+
+        @media (max-width: 767px) {
+            max-height: 40px;
+        }
     }
 
     .navbar-brand,
@@ -165,7 +169,6 @@ $da-purple-dark: #4e1d68;
         justify-content: center;
         max-width: 820px;
         margin: 0 auto;
-        padding: 3rem 1.5rem;
         text-align: center;
 
         .hero-title {
@@ -267,28 +270,19 @@ $da-purple-dark: #4e1d68;
     box-shadow: 0 8px 24px rgba(15, 39, 68, 0.06);
 
     .icon {
+        display: flex;
+        align-items: center;
+        justify-content: center;
         flex: 0 0 auto;
         padding-right: 1.25rem;
         margin-right: 1.25rem;
         border-right: 1px solid #e3e8ef;
     }
 
-    .icon-wrap {
-        // display: flex;
-        // align-items: center;
-        // justify-content: center;
-        // width: 88px;
-        // height: 88px;
-        // border-radius: 50%;
-        // background: linear-gradient(135deg,
-        //         rgba($da-teal, 0.14) 0%,
-        //         rgba($da-purple, 0.1) 100%);
-
-        img {
-            width: 80px;
-            height: 80px;
-            border-radius: 100%;
-        }
+    img {
+        width: 80px;
+        height: 80px;
+        border-radius: 100%;
     }
 
     .description {
@@ -906,6 +900,10 @@ a:hover {
             max-height: 56px;
             width: auto;
             filter: brightness(0) invert(1);
+
+            @media (max-width: 767px) {
+                max-height: 40px;
+            }
         }
 
         .name {
