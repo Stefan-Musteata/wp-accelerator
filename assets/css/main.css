@@ -398,20 +398,6 @@ a:hover {
   font-weight: 600;
 }
 
-.page-layout {
-  display: grid;
-  grid-template-columns: 1fr 280px;
-  gap: 2rem;
-  padding: 2.5rem 0 4rem;
-}
-.page-layout--single {
-  grid-template-columns: 1fr;
-  max-width: 760px;
-}
-.page-layout .main {
-  min-width: 0;
-}
-
 .entry .title {
   margin: 0 0 0.5rem;
   color: var(--color-primary-dark);
