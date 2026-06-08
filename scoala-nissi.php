@@ -42,7 +42,7 @@ get_header();
 			>
 				<img
 					class="img-fluid w-100 rounded"
-					src="https://lh3.googleusercontent.com/sitesv/AA5AbUDLYa5lWgzq5AB4QEDSWXGT-7FYmIDQdKCEQTUmIDYFxoCzoNxmVnkcZjrlTELwF-l2nysLJfB-9Ct51WWH7dtnph7UWl87vRhmBd5G82-lEKWyn8bd64TDao_m6lR5k2_yAFFRi2vQ7pX6-jMIZ1omNwgH7ClkWco-UP8mxnorLmdEpRzHFq8EiOrDovDziY2O6qvkUy8MRV7i241CJUyrrWRNC2U4wqHRa3wj=w1280"
+					src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/Screenshot_1.png"
 					alt="Școala Primară Nissi"
 				>
 			</a>
@@ -60,7 +60,7 @@ get_header();
 			>
 				<img
 					class="img-fluid w-100 rounded"
-					src="https://lh3.googleusercontent.com/sitesv/AA5AbUBMmHHxrGmsgCoACq5IRy7xhl9Q52nJiXzrrIq36p21gfyQCNhu-0DxvFnlqaSkevs7vRCxCs1e0af8UI0obNIK7rQygaRA2hLukXgdB-Oj8PnlffLItCjdA1N3G1SLVQQh9vnh2YURsca1kJ34-o3SprYC1GRrdohuTHzK5X7gxDIczC27JlYyFw3hczkvct1tZynL_gVpQRduEKORRa3OhOpUrrFQLw6S9mDwOiE=w1280"
+					src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/2.jpg"
 					alt="Nissi Põhikool pe Facebook"
 				>
 			</a>
@@ -181,7 +181,7 @@ get_header();
 		<div class="col-12 text-center">
 			<img
 				class="img-fluid w-100 rounded shadow-sm mb-3"
-				src="https://lh3.googleusercontent.com/sitesv/AA5AbUDrsGmIjCGWmKtupiXgdXB-7HCjBKkAaFLoME-zj--GiADdFtQWamXh-cQX5DtQhGjGbbW33xaVwAuznuy2NkN8HS0Paa7WGKonlW5Whaj1Xa6XGlhGjSbn2MIwOpox6wnBcsH4AFTeWvB-qp_g9vyDMouuEKuVr42MY1B9WISKPGyB0T0vyu-2vl8vaZ33q0QnV9V5m3s-L_pzomi6C2IltzyL478k1Jkkl-DnKtw=w1280"
+				src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/3.png"
 				alt="Structura de guvernanță și organizare a Nissi Põhikool"
 			>
 			<p class="text-muted small mb-0">
@@ -307,7 +307,7 @@ get_header();
 		<div class="col-12 text-center">
 			<img
 				class="img-fluid w-100 rounded shadow-sm mb-3"
-				src="https://lh3.googleusercontent.com/sitesv/AA5AbUC96wn1Q1WaWFcYxO4hrze46snUF9FiqxJkCNpsin0IgnydqGKyaiFzgqeY7QmU3Eosy5KLYdOIpDy-DF1uVf11Obqj8_wkIhUfzE1mQJuODY9_T7rk_YnfYpZSvDmXHINZzrGSeNrJUeNv3S27mb_uit23fzlY5WS2LxZPLtVE6sO8wKTaUoJiNHh7IW77nkQpRgrDGutPnWqY_5oy_TDSQp9YKrziq8WIc5pYz9o=w1280"
+				src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/4.png"
 				alt="Axa cronologică a evoluției și transformării digitale la Nissi Põhikool"
 			>
 			<p class="text-muted small mb-0">
@@ -382,7 +382,7 @@ get_header();
 		<div class="col-12 text-center">
 			<img
 				class="img-fluid w-100 rounded shadow-sm mb-3"
-				src="https://lh3.googleusercontent.com/sitesv/AA5AbUBPQQc15rzzhoQbp-oh8JS-77VcxJ5rgPsu24hHn2equJ_Pb_QqjaidiiV23kMeg3umUw1uvs6oQHCZ2IjQ1NoAZrPGulaIN96AYxiz54W3Nv3uCx8VFSh9Ak9tAS1lORE2uKXWkELABJQUrs91vefggrTzKZL1-rXiFpPil6Q4JbdrcJQfEvOQqrL8Ok1Zo1I4DkQs2Fwl_6m_WSRPBs6bFR10Q0qqEjKhOUMMJXo=w1280"
+				src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/5.png"
 				alt="Diagrama declanșatorilor schimbării la Nissi Põhikool"
 			>
 			<p class="text-muted small mb-0">

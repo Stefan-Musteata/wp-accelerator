@@ -93,7 +93,9 @@ function da_enqueue_assets() {
 		true
 	);
 
-	if ( is_front_page() ) {
+	$needs_swiper = is_front_page() || is_page_template( 'tallina-tkvg.php' );
+
+	if ( $needs_swiper ) {
 		wp_enqueue_style(
 			'swiper',
 			DA_THEME_URI . '/assets/vendor/swiper/swiper-bundle.min.css',
@@ -108,10 +110,22 @@ function da_enqueue_assets() {
 			DA_SWIPER_VERSION,
 			true
 		);
+	}
 
+	if ( is_front_page() ) {
 		wp_enqueue_script(
 			'digital-accelerator-slider-intro',
 			DA_THEME_URI . '/assets/js/slider-intro.js',
+			array( 'swiper' ),
+			DA_THEME_VERSION,
+			true
+		);
+	}
+
+	if ( is_page_template( 'tallina-tkvg.php' ) ) {
+		wp_enqueue_script(
+			'digital-accelerator-tkvg-swiper',
+			DA_THEME_URI . '/assets/js/tkvg-swiper.js',
 			array( 'swiper' ),
 			DA_THEME_VERSION,
 			true

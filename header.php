@@ -13,7 +13,7 @@
 </a>
 
 <header class="site-header" role="banner">
-	<nav class="navbar navbar-expand-lg navbar-light bg-white border-bottom sticky-top" aria-label="<?php esc_attr_e( 'Navigare principală', 'digital-accelerator' ); ?>">
+	<nav class="navbar navbar-expand-lg navbar-light bg-white sticky-top" aria-label="<?php esc_attr_e( 'Navigare principală', 'digital-accelerator' ); ?>">
 		<div class="container">
 			<div class="branding">
 				<?php if ( has_custom_logo() ) : ?>
