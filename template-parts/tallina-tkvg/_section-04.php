@@ -120,17 +120,17 @@
 	<div class="tkvg-diagrama-wrap mb-2">
 		<svg class="tkvg-diagrama" viewBox="0 0 1000 220" role="img" aria-label="Cine interpretează datele – proces multinivel">
 			<text x="500" y="35" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-weight="600" font-size="18" fill="#362B2A">Cine interpretează datele – proces multinivel</text>
-			<rect x="80" y="70" width="260" height="115" rx="12" fill="#245262"></rect>
+			<rect x="80" y="70" width="360" height="115" rx="12" fill="#245262"></rect>
 			<text x="210" y="100" text-anchor="middle" fill="#fff" font-size="13">Echipa de management</text>
 			<text x="210" y="120" text-anchor="middle" fill="#fff" font-size="13">Director</text>
 			<text x="210" y="140" text-anchor="middle" fill="#fff" font-size="12">Analiza datelor strategice</text>
 			<text x="210" y="160" text-anchor="middle" fill="#fff" font-size="12">Ajustarea planului de dezvoltare</text>
-			<rect x="370" y="70" width="260" height="115" rx="12" fill="#4C1C57"></rect>
+			<rect x="370" y="70" width="360" height="115" rx="12" fill="#4C1C57"></rect>
 			<text x="500" y="100" text-anchor="middle" fill="#fff" font-size="13">Tehnolog educațional</text>
 			<text x="500" y="120" text-anchor="middle" fill="#fff" font-size="12">Interpretarea competențelor digitale</text>
 			<text x="500" y="140" text-anchor="middle" fill="#fff" font-size="12">Corelarea indicatorilor</text>
 			<text x="500" y="160" text-anchor="middle" fill="#fff" font-size="12">cu soluțiile pedagogice</text>
-			<rect x="660" y="70" width="260" height="115" rx="12" fill="#10ECD2" stroke="#245262" stroke-width="1.5"></rect>
+			<rect x="660" y="70" width="360" height="115" rx="12" fill="#10ECD2" stroke="#245262" stroke-width="1.5"></rect>
 			<text x="790" y="100" text-anchor="middle" fill="#362B2A" font-size="13">Instrumente de Inteligență Artificială</text>
 			<text x="790" y="120" text-anchor="middle" fill="#362B2A" font-size="12">Analiza documentelor de raportare</text>
 			<text x="790" y="140" text-anchor="middle" fill="#362B2A" font-size="12">Volumul de muncă al profesorilor</text>

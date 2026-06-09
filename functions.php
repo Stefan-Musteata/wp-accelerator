@@ -93,7 +93,7 @@ function da_enqueue_assets() {
 		true
 	);
 
-	$needs_swiper = is_front_page() || is_page_template( 'tallina-tkvg.php' );
+	$needs_swiper = is_front_page() || is_page_template( 'tallina-tkvg.php' ) || is_page_template( 'gimnaziu-pae.php' ) || is_page_template( 'scoala-21-talin.php' );
 
 	if ( $needs_swiper ) {
 		wp_enqueue_style(
@@ -126,6 +126,26 @@ function da_enqueue_assets() {
 		wp_enqueue_script(
 			'digital-accelerator-tkvg-swiper',
 			DA_THEME_URI . '/assets/js/tkvg-swiper.js',
+			array( 'swiper' ),
+			DA_THEME_VERSION,
+			true
+		);
+	}
+
+	if ( is_page_template( 'gimnaziu-pae.php' ) ) {
+		wp_enqueue_script(
+			'digital-accelerator-pae-swiper',
+			DA_THEME_URI . '/assets/js/pae-swiper.js',
+			array( 'swiper' ),
+			DA_THEME_VERSION,
+			true
+		);
+	}
+
+	if ( is_page_template( 'scoala-21-talin.php' ) ) {
+		wp_enqueue_script(
+			'digital-accelerator-talin-swiper',
+			DA_THEME_URI . '/assets/js/talin-swiper.js',
 			array( 'swiper' ),
 			DA_THEME_VERSION,
 			true

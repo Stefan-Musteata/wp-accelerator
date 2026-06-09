@@ -490,17 +490,6 @@ get_header();
             to { opacity: 1; transform: translateY(0); }
         }
 
-        /* Navigation */
-        nav {
-            background: rgba(255, 255, 255, 0.95);
-            backdrop-filter: blur(10px);
-            padding: 1rem 0;
-            position: sticky;
-            top: 0;
-            z-index: 1000;
-            box-shadow: var(--shadow);
-            border-bottom: 3px solid var(--turquoise);
-        }
 
         .nav-container {
             max-width: 1200px;
