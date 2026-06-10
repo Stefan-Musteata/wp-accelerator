@@ -196,3 +196,25 @@ function da_get_contact_defaults() {
 		'institution' => __( 'Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”', 'digital-accelerator' ),
 	);
 }
+
+/**
+ * Return permalink for the first page using a given template file.
+ *
+ * @param string $template Template filename (e.g. tallina-tkvg.php).
+ * @return string
+ */
+function da_get_page_url_by_template( $template ) {
+	$pages = get_pages(
+		array(
+			'meta_key'   => '_wp_page_template',
+			'meta_value' => $template,
+			'number'     => 1,
+		)
+	);
+
+	if ( empty( $pages ) ) {
+		return '#';
+	}
+
+	return get_permalink( $pages[0]->ID );
+}

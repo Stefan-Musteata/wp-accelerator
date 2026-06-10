@@ -2319,4 +2319,412 @@ a:hover {
   }
 }
 
+/* Pagină Despre Estonia */
+.estonia-page {
+  --estonia-teal: #307e8c;
+  --estonia-purple: #622582;
+  --estonia-text: #1e3a5f;
+  --estonia-muted: #5a6f85;
+  --estonia-surface: #f4f8fa;
+  --estonia-border: rgba($da-teal, 0.14);
+  color: var(--estonia-text);
+}
+
+.estonia-hero {
+  position: relative;
+  overflow: hidden;
+  padding: 4.5rem 0 3.5rem;
+  background: linear-gradient(145deg, rgb(32.0519480519, 83.3350649351, 91.3480519481) 0%, #307e8c 42%, rgb(70.5, 85.95, 135.5) 100%);
+  color: #fff;
+}
+.estonia-hero__bg {
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at 12% 18%, rgba(255, 255, 255, 0.14) 0%, transparent 42%), radial-gradient(circle at 88% 72%, rgba(98, 37, 130, 0.28) 0%, transparent 45%);
+  pointer-events: none;
+}
+.estonia-hero__inner {
+  position: relative;
+  z-index: 1;
+  max-width: 52rem;
+}
+.estonia-hero__eyebrow {
+  display: inline-block;
+  margin-bottom: 1rem;
+  padding: 0.35rem 0.9rem;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #fff;
+  background: rgba(255, 255, 255, 0.14);
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  border-radius: 999px;
+}
+.estonia-hero__title {
+  margin-bottom: 1.25rem;
+  font-size: clamp(1.65rem, 3.2vw, 2.35rem);
+  font-weight: 700;
+  line-height: 1.25;
+  color: #fff;
+}
+.estonia-hero__lead {
+  margin-bottom: 2rem;
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.estonia-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.estonia-stat {
+  flex: 1 1 9rem;
+  padding: 1rem 1.15rem;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 0.85rem;
+  backdrop-filter: blur(6px);
+}
+.estonia-stat__value {
+  display: block;
+  font-size: 1.35rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #fff;
+}
+.estonia-stat__label {
+  display: block;
+  margin-top: 0.25rem;
+  font-size: 0.82rem;
+  color: rgba(255, 255, 255, 0.78);
+}
+
+.estonia-section {
+  padding: 4rem 0;
+}
+.estonia-section__header {
+  max-width: 44rem;
+  margin-bottom: 2.5rem;
+}
+.estonia-section__badge {
+  display: inline-block;
+  margin-bottom: 0.85rem;
+  padding: 0.3rem 0.75rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #307e8c;
+  background: rgba(48, 126, 140, 0.1);
+  border-radius: 999px;
+}
+.estonia-section__badge--light {
+  color: #fff;
+  background: rgba(255, 255, 255, 0.16);
+}
+.estonia-section__title {
+  margin-bottom: 0.85rem;
+  font-size: clamp(1.45rem, 2.5vw, 1.9rem);
+  font-weight: 700;
+  line-height: 1.3;
+  color: #307e8c;
+}
+.estonia-section__subtitle {
+  margin: 0;
+  font-size: 1.02rem;
+  line-height: 1.65;
+  color: var(--estonia-muted);
+}
+
+.estonia-intro {
+  padding-top: 3rem;
+  background: var(--estonia-surface);
+}
+.estonia-intro__card {
+  padding: 2rem 2.25rem;
+  font-size: 1.05rem;
+  line-height: 1.75;
+  background: #fff;
+  border-left: 4px solid #622582;
+  border-radius: 0 1rem 1rem 0;
+  box-shadow: 0 12px 32px rgba(15, 39, 68, 0.07);
+}
+
+.estonia-mission__body {
+  font-size: 1.02rem;
+  line-height: 1.7;
+  color: var(--estonia-text);
+}
+.estonia-mission__goal {
+  margin: 2rem 0 0;
+  padding: 1.15rem 1.35rem;
+  font-weight: 500;
+  color: #286872;
+  background: rgba(48, 126, 140, 0.08);
+  border-radius: 0.75rem;
+  border-left: 3px solid #307e8c;
+}
+
+.estonia-activity-card {
+  height: 100%;
+  padding: 1.5rem;
+  background: #fff;
+  border: 1px solid var(--estonia-border);
+  border-radius: 1rem;
+  box-shadow: 0 8px 24px rgba(15, 39, 68, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.estonia-activity-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 14px 30px rgba(15, 39, 68, 0.1);
+}
+.estonia-activity-card__icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 3.25rem;
+  height: 3.25rem;
+  margin-bottom: 1rem;
+  color: #307e8c;
+  background: rgba(48, 126, 140, 0.1);
+  border-radius: 0.85rem;
+}
+.estonia-activity-card__title {
+  margin-bottom: 0.65rem;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #307e8c;
+}
+.estonia-activity-card__text {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: var(--estonia-muted);
+}
+
+.estonia-schools {
+  background: linear-gradient(180deg, var(--estonia-surface) 0%, #fff 100%);
+}
+
+.estonia-school-card {
+  position: relative;
+  display: flex;
+  gap: 1.25rem;
+  height: 100%;
+  padding: 1.75rem;
+  background: #fff;
+  border: 1px solid var(--estonia-border);
+  border-radius: 1.1rem;
+  box-shadow: 0 10px 28px rgba(15, 39, 68, 0.06);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.estonia-school-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 16px 36px rgba(15, 39, 68, 0.1);
+}
+.estonia-school-card__number {
+  flex: 0 0 auto;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1;
+  opacity: 0.18;
+}
+.estonia-school-card__body {
+  flex: 1;
+  min-width: 0;
+}
+.estonia-school-card__name {
+  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.35;
+  color: #307e8c;
+}
+.estonia-school-card__focus {
+  margin-bottom: 0.85rem;
+  font-size: 0.88rem;
+  color: #622582;
+}
+.estonia-school-card__desc {
+  margin-bottom: 1.15rem;
+  font-size: 0.95rem;
+  line-height: 1.65;
+  color: var(--estonia-muted);
+}
+.estonia-school-card__link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-size: 0.92rem;
+  font-weight: 600;
+  text-decoration: none;
+  color: #307e8c;
+  transition: gap 0.2s ease, color 0.2s ease;
+}
+.estonia-school-card__link:hover {
+  gap: 0.65rem;
+  color: #622582;
+}
+.estonia-school-card--tkvg {
+  border-top: 3px solid #307e8c;
+}
+.estonia-school-card--tkvg .estonia-school-card__number {
+  color: #307e8c;
+}
+.estonia-school-card--pae {
+  border-top: 3px solid #622582;
+}
+.estonia-school-card--pae .estonia-school-card__number {
+  color: #622582;
+}
+.estonia-school-card--pae .estonia-school-card__name {
+  color: #622582;
+}
+.estonia-school-card--nissi {
+  border-top: 3px solid rgb(63.6255319149, 167.0170212766, 185.5744680851);
+}
+.estonia-school-card--nissi .estonia-school-card__number {
+  color: rgb(63.6255319149, 167.0170212766, 185.5744680851);
+}
+.estonia-school-card--t21 {
+  border-top: 3px solid rgb(133.9137724551, 50.5592814371, 177.6407185629);
+}
+.estonia-school-card--t21 .estonia-school-card__number {
+  color: rgb(133.9137724551, 50.5592814371, 177.6407185629);
+}
+.estonia-school-card--t21 .estonia-school-card__name {
+  color: rgb(86.028742515, 32.480239521, 114.119760479);
+}
+
+.estonia-lessons {
+  background: #fff;
+}
+
+.estonia-lessons-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.estonia-lesson {
+  display: flex;
+  gap: 1.25rem;
+  padding: 1.5rem 1.75rem;
+  background: var(--estonia-surface);
+  border-radius: 1rem;
+  border: 1px solid var(--estonia-border);
+  transition: background 0.2s ease;
+}
+.estonia-lesson:hover {
+  background: rgba(48, 126, 140, 0.06);
+}
+.estonia-lesson__marker {
+  flex: 0 0 4px;
+  margin-top: 0.35rem;
+  border-radius: 999px;
+  background: linear-gradient(180deg, #307e8c 0%, #622582 100%);
+}
+.estonia-lesson__title {
+  margin-bottom: 0.5rem;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #307e8c;
+}
+.estonia-lesson__content p {
+  margin: 0;
+  font-size: 0.97rem;
+  line-height: 1.65;
+  color: var(--estonia-muted);
+}
+
+.estonia-impact {
+  padding-bottom: 3rem;
+}
+.estonia-impact__card {
+  padding: 2.5rem;
+  color: #fff;
+  background: linear-gradient(135deg, #286872 0%, rgb(78, 72.6, 134) 55%, #4e1d68 100%);
+  border-radius: 1.25rem;
+  box-shadow: 0 18px 40px rgba(78, 29, 104, 0.22);
+}
+.estonia-impact__title {
+  margin-bottom: 1.25rem;
+  font-size: clamp(1.35rem, 2.2vw, 1.75rem);
+  font-weight: 700;
+  line-height: 1.3;
+  color: #fff;
+}
+.estonia-impact p {
+  font-size: 1.02rem;
+  line-height: 1.7;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.estonia-quote {
+  margin: 0;
+  padding: 3rem 0;
+  background: linear-gradient(90deg, rgba(48, 126, 140, 0.08) 0%, rgba(98, 37, 130, 0.08) 100%);
+  border: none;
+}
+.estonia-quote__text {
+  margin: auto;
+  max-width: 44rem;
+  font-size: clamp(1.15rem, 2vw, 1.45rem);
+  font-weight: 500;
+  font-style: italic;
+  line-height: 1.55;
+  text-align: center;
+  color: #286872;
+}
+.estonia-quote__text::before {
+  content: "“";
+  display: block;
+  margin-bottom: 0.5rem;
+  font-size: 2.5rem;
+  font-style: normal;
+  line-height: 1;
+  color: #622582;
+  opacity: 0.5;
+}
+
+.estonia-disclaimer {
+  padding: 2rem 0 3.5rem;
+  background: #f8fafb;
+}
+.estonia-disclaimer p {
+  margin: 0;
+  font-size: 0.82rem;
+  line-height: 1.65;
+  color: #7a8fa3;
+}
+
+@media (max-width: 767px) {
+  .estonia-hero {
+    padding: 3rem 0 2.5rem;
+  }
+  .estonia-section {
+    padding: 2.75rem 0;
+  }
+  .estonia-intro__card,
+  .estonia-impact__card {
+    padding: 1.5rem;
+  }
+  .estonia-school-card {
+    flex-direction: column;
+    gap: 0.5rem;
+    padding: 1.35rem;
+  }
+  .estonia-school-card__number {
+    font-size: 1.5rem;
+    opacity: 0.35;
+  }
+  .estonia-lesson {
+    padding: 1.25rem;
+  }
+}
+
 /*# sourceMappingURL=custom.css.map */

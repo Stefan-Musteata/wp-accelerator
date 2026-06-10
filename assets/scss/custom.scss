@@ -2666,3 +2666,476 @@ a:hover {
         }
     }
 }
+
+/* Pagină Despre Estonia */
+.estonia-page {
+    --estonia-teal: #{$da-teal};
+    --estonia-purple: #{$da-purple};
+    --estonia-text: #1e3a5f;
+    --estonia-muted: #5a6f85;
+    --estonia-surface: #f4f8fa;
+    --estonia-border: rgba($da-teal, 0.14);
+    color: var(--estonia-text);
+}
+
+.estonia-hero {
+    position: relative;
+    overflow: hidden;
+    padding: 4.5rem 0 3.5rem;
+    background: linear-gradient(145deg,
+            color.adjust($da-teal-dark, $lightness: -6%) 0%,
+            $da-teal 42%,
+            color.mix($da-teal, $da-purple, 55%) 100%);
+    color: #fff;
+
+    &__bg {
+        position: absolute;
+        inset: 0;
+        background:
+            radial-gradient(circle at 12% 18%, rgba(255, 255, 255, 0.14) 0%, transparent 42%),
+            radial-gradient(circle at 88% 72%, rgba($da-purple, 0.28) 0%, transparent 45%);
+        pointer-events: none;
+    }
+
+    &__inner {
+        position: relative;
+        z-index: 1;
+        max-width: 52rem;
+    }
+
+    &__eyebrow {
+        display: inline-block;
+        margin-bottom: 1rem;
+        padding: 0.35rem 0.9rem;
+        font-size: 0.78rem;
+        font-weight: 700;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: #fff;
+        background: rgba(255, 255, 255, 0.14);
+        border: 1px solid rgba(255, 255, 255, 0.22);
+        border-radius: 999px;
+    }
+
+    &__title {
+        margin-bottom: 1.25rem;
+        font-size: clamp(1.65rem, 3.2vw, 2.35rem);
+        font-weight: 700;
+        line-height: 1.25;
+        color: #fff;
+    }
+
+    &__lead {
+        margin-bottom: 2rem;
+        font-size: 1.05rem;
+        line-height: 1.7;
+        color: rgba(255, 255, 255, 0.9);
+    }
+}
+
+.estonia-stats {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.estonia-stat {
+    flex: 1 1 9rem;
+    padding: 1rem 1.15rem;
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    border-radius: 0.85rem;
+    backdrop-filter: blur(6px);
+
+    &__value {
+        display: block;
+        font-size: 1.35rem;
+        font-weight: 700;
+        line-height: 1.2;
+        color: #fff;
+    }
+
+    &__label {
+        display: block;
+        margin-top: 0.25rem;
+        font-size: 0.82rem;
+        color: rgba(255, 255, 255, 0.78);
+    }
+}
+
+.estonia-section {
+    padding: 4rem 0;
+
+    &__header {
+        max-width: 44rem;
+        margin-bottom: 2.5rem;
+    }
+
+    &__badge {
+        display: inline-block;
+        margin-bottom: 0.85rem;
+        padding: 0.3rem 0.75rem;
+        font-size: 0.75rem;
+        font-weight: 700;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        color: $da-teal;
+        background: rgba($da-teal, 0.1);
+        border-radius: 999px;
+
+        &--light {
+            color: #fff;
+            background: rgba(255, 255, 255, 0.16);
+        }
+    }
+
+    &__title {
+        margin-bottom: 0.85rem;
+        font-size: clamp(1.45rem, 2.5vw, 1.9rem);
+        font-weight: 700;
+        line-height: 1.3;
+        color: $da-teal;
+    }
+
+    &__subtitle {
+        margin: 0;
+        font-size: 1.02rem;
+        line-height: 1.65;
+        color: var(--estonia-muted);
+    }
+}
+
+.estonia-intro {
+    padding-top: 3rem;
+    background: var(--estonia-surface);
+
+    &__card {
+        padding: 2rem 2.25rem;
+        font-size: 1.05rem;
+        line-height: 1.75;
+        background: #fff;
+        border-left: 4px solid $da-purple;
+        border-radius: 0 1rem 1rem 0;
+        box-shadow: 0 12px 32px rgba(15, 39, 68, 0.07);
+    }
+}
+
+.estonia-mission {
+    &__body {
+        font-size: 1.02rem;
+        line-height: 1.7;
+        color: var(--estonia-text);
+    }
+
+    &__goal {
+        margin: 2rem 0 0;
+        padding: 1.15rem 1.35rem;
+        font-weight: 500;
+        color: $da-teal-dark;
+        background: rgba($da-teal, 0.08);
+        border-radius: 0.75rem;
+        border-left: 3px solid $da-teal;
+    }
+}
+
+.estonia-activity-card {
+    height: 100%;
+    padding: 1.5rem;
+    background: #fff;
+    border: 1px solid var(--estonia-border);
+    border-radius: 1rem;
+    box-shadow: 0 8px 24px rgba(15, 39, 68, 0.05);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+    &:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 14px 30px rgba(15, 39, 68, 0.1);
+    }
+
+    &__icon {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 3.25rem;
+        height: 3.25rem;
+        margin-bottom: 1rem;
+        color: $da-teal;
+        background: rgba($da-teal, 0.1);
+        border-radius: 0.85rem;
+    }
+
+    &__title {
+        margin-bottom: 0.65rem;
+        font-size: 1.05rem;
+        font-weight: 700;
+        color: $da-teal;
+    }
+
+    &__text {
+        margin: 0;
+        font-size: 0.95rem;
+        line-height: 1.6;
+        color: var(--estonia-muted);
+    }
+}
+
+.estonia-schools {
+    background: linear-gradient(180deg,
+            var(--estonia-surface) 0%,
+            #fff 100%);
+}
+
+.estonia-school-card {
+    position: relative;
+    display: flex;
+    gap: 1.25rem;
+    height: 100%;
+    padding: 1.75rem;
+    background: #fff;
+    border: 1px solid var(--estonia-border);
+    border-radius: 1.1rem;
+    box-shadow: 0 10px 28px rgba(15, 39, 68, 0.06);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+    &:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 16px 36px rgba(15, 39, 68, 0.1);
+    }
+
+    &__number {
+        flex: 0 0 auto;
+        font-size: 2rem;
+        font-weight: 800;
+        line-height: 1;
+        opacity: 0.18;
+    }
+
+    &__body {
+        flex: 1;
+        min-width: 0;
+    }
+
+    &__name {
+        margin-bottom: 0.5rem;
+        font-size: 1.1rem;
+        font-weight: 700;
+        line-height: 1.35;
+        color: $da-teal;
+    }
+
+    &__focus {
+        margin-bottom: 0.85rem;
+        font-size: 0.88rem;
+        color: $da-purple;
+    }
+
+    &__desc {
+        margin-bottom: 1.15rem;
+        font-size: 0.95rem;
+        line-height: 1.65;
+        color: var(--estonia-muted);
+    }
+
+    &__link {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.45rem;
+        font-size: 0.92rem;
+        font-weight: 600;
+        text-decoration: none;
+        color: $da-teal;
+        transition: gap 0.2s ease, color 0.2s ease;
+
+        &:hover {
+            gap: 0.65rem;
+            color: $da-purple;
+        }
+    }
+
+    &--tkvg {
+        border-top: 3px solid $da-teal;
+
+        .estonia-school-card__number {
+            color: $da-teal;
+        }
+    }
+
+    &--pae {
+        border-top: 3px solid $da-purple;
+
+        .estonia-school-card__number {
+            color: $da-purple;
+        }
+
+        .estonia-school-card__name {
+            color: $da-purple;
+        }
+    }
+
+    &--nissi {
+        border-top: 3px solid color.adjust($da-teal, $lightness: 12%);
+
+        .estonia-school-card__number {
+            color: color.adjust($da-teal, $lightness: 12%);
+        }
+    }
+
+    &--t21 {
+        border-top: 3px solid color.adjust($da-purple, $lightness: 12%);
+
+        .estonia-school-card__number {
+            color: color.adjust($da-purple, $lightness: 12%);
+        }
+
+        .estonia-school-card__name {
+            color: color.adjust($da-purple, $lightness: -4%);
+        }
+    }
+}
+
+.estonia-lessons {
+    background: #fff;
+}
+
+.estonia-lessons-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+}
+
+.estonia-lesson {
+    display: flex;
+    gap: 1.25rem;
+    padding: 1.5rem 1.75rem;
+    background: var(--estonia-surface);
+    border-radius: 1rem;
+    border: 1px solid var(--estonia-border);
+    transition: background 0.2s ease;
+
+    &:hover {
+        background: rgba($da-teal, 0.06);
+    }
+
+    &__marker {
+        flex: 0 0 4px;
+        margin-top: 0.35rem;
+        border-radius: 999px;
+        background: linear-gradient(180deg, $da-teal 0%, $da-purple 100%);
+    }
+
+    &__title {
+        margin-bottom: 0.5rem;
+        font-size: 1.05rem;
+        font-weight: 700;
+        color: $da-teal;
+    }
+
+    &__content p {
+        margin: 0;
+        font-size: 0.97rem;
+        line-height: 1.65;
+        color: var(--estonia-muted);
+    }
+}
+
+.estonia-impact {
+    padding-bottom: 3rem;
+
+    &__card {
+        padding: 2.5rem;
+        color: #fff;
+        background: linear-gradient(135deg,
+                $da-teal-dark 0%,
+                color.mix($da-teal, $da-purple, 40%) 55%,
+                $da-purple-dark 100%);
+        border-radius: 1.25rem;
+        box-shadow: 0 18px 40px rgba($da-purple-dark, 0.22);
+    }
+
+    &__title {
+        margin-bottom: 1.25rem;
+        font-size: clamp(1.35rem, 2.2vw, 1.75rem);
+        font-weight: 700;
+        line-height: 1.3;
+        color: #fff;
+    }
+
+    p {
+        font-size: 1.02rem;
+        line-height: 1.7;
+        color: rgba(255, 255, 255, 0.9);
+    }
+}
+
+.estonia-quote {
+    margin: 0;
+    padding: 3rem 0;
+    background: linear-gradient(90deg,
+            rgba($da-teal, 0.08) 0%,
+            rgba($da-purple, 0.08) 100%);
+    border: none;
+
+    &__text {
+        margin: auto;
+        max-width: 44rem;
+        font-size: clamp(1.15rem, 2vw, 1.45rem);
+        font-weight: 500;
+        font-style: italic;
+        line-height: 1.55;
+        text-align: center;
+        color: $da-teal-dark;
+
+        &::before {
+            content: "\201C";
+            display: block;
+            margin-bottom: 0.5rem;
+            font-size: 2.5rem;
+            font-style: normal;
+            line-height: 1;
+            color: $da-purple;
+            opacity: 0.5;
+        }
+    }
+}
+
+.estonia-disclaimer {
+    padding: 2rem 0 3.5rem;
+    background: #f8fafb;
+
+    p {
+        margin: 0;
+        font-size: 0.82rem;
+        line-height: 1.65;
+        color: #7a8fa3;
+    }
+}
+
+@media (max-width: 767px) {
+    .estonia-hero {
+        padding: 3rem 0 2.5rem;
+    }
+
+    .estonia-section {
+        padding: 2.75rem 0;
+    }
+
+    .estonia-intro__card,
+    .estonia-impact__card {
+        padding: 1.5rem;
+    }
+
+    .estonia-school-card {
+        flex-direction: column;
+        gap: 0.5rem;
+        padding: 1.35rem;
+
+        &__number {
+            font-size: 1.5rem;
+            opacity: 0.35;
+        }
+    }
+
+    .estonia-lesson {
+        padding: 1.25rem;
+    }
+}
