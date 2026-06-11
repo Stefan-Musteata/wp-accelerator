@@ -91,12 +91,9 @@ $case_studies = array(
 
 <div class="mentoring-page" id="mentorat-inovarii">
 
-	<section class="mentoring-hero" aria-labelledby="mentoring-hero-title">
+	<section class="mentoring-hero" aria-labelledby="page-title">
 		<div class="mentoring-hero__bg" aria-hidden="true"></div>
 		<div class="container mentoring-hero__inner">
-			<h2 class="mentoring-hero__title" id="mentoring-hero-title">
-				Mentorat: Inovații digitale &amp; Studii de caz
-			</h2>
 			<p class="mentoring-hero__lead">
 				Prima sesiune de mentorat din cadrul programului DigitalAccelerator a marcat punctul de pornire (Kick-off) în călătoria de transformare digitală a celor 12 școli pilot. Desfășurată sub îndrumarea meta-mentorilor, această sesiune a fost dedicată alinierii vizionarilor din școli.
 			</p>
@@ -223,12 +220,6 @@ $case_studies = array(
 		</div>
 	</section>
 
-	<footer class="mentoring-disclaimer">
-		<div class="container">
-			<p>
-				Acest proiect este finanțat de Global Partnership for Education, UNICEF Moldova și EstDev, la inițiativa Ministerului Educației și Cercetării al Republicii Moldova, și este implementat de Universitatea din Tallinn, Fundația pentru Dezvoltare din Republica Moldova și Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”. Conținutul acestui website reflectă activitățile și rezultatele proiectului Digital Accelerator și nu reprezintă în mod necesar poziția oficială a finanțatorilor sau a partenerilor implicați.
-			</p>
-		</div>
-	</footer>
+	<?php get_template_part( 'template-parts/project-disclaimer' ); ?>
 
 </div>

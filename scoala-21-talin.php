@@ -59,7 +59,7 @@ get_header();
 			>
 				<img
 					class="img-fluid w-100"
-					src="https://lh3.googleusercontent.com/sitesv/AA5AbUDAURUAIHrrtavSltIQjsNnIpGeQ_LI4V1po645d5g0TyrWBE78e97XVjwZb9R-bjwoeBaL56v7gacQYarfRSt0a9dcPfM7_EtTrYV2WZLp64GWa5mk3EWataLdXhJCxELTuoZ9L-8qcu8fEnYVz4opuIO5Cd7xytVCI67iPiBdjw2L6GmhuSLHrjlSVzzWxXjnNidH8MrfCtQ2Kgoj9YT7zo9IKz_3Y-M_IIq7vzU=w1280"
+					src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-0.png"
 					alt="Tallinna 21. Kool — imagine reprezentativă"
 					referrerpolicy="no-referrer"
 					loading="lazy"
@@ -201,7 +201,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUAszYzumBFrwg_GeH42IwH6Fn8rFt9iAoIHIL903BjIeAifcetz-pXfoloZOh8l1A0_43wwe2_PS1v8B6f86AFt7c_UTA0IoBZDxDm4HWz0wjSffSyhoBXwm25EqPv5vBNJb85kEYF9XH03VfpF8Sml-0rwk8PgRu3B2fmo6hCWh3o4seWJE2cBgksZ3kyHsWDBDioPSwnipD5MM5fcHsr57qLo1Rf_zKFOMhpC=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-1.jpg"
 						alt="Mediul școlar — specificul instituției"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -216,7 +216,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUDfRhrEqMULxUHhfO5oVtsyOgIHd8r93fGusrNrTL9OgANZO3oYWYz-Y9daXw9r9bgHi3UhdzuktLIi1jLn11X5hIW5zg6L3f0xZ7gHLq8gRm50_LTr7S-daow1PUYzJ20QbvxiT_V6jngXBivQ1_caUyWPfARjE-FF2kSv9-By6Rly9TJ0s-xjXPspK7FCDKTkRin3JKF5qpbIXw60CaXLSNKc-HhJqmMDkYjW=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-2.jpg"
 						alt="Spațiu dotat cu robotică"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -231,7 +231,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUB-OPPrEYBVHMPCGyhuJdj9feyjg5TPPmp9V4nPlO_VxlVF_AMkeJQwP-IKRCH_FQXvl_6UvXzDX8DU0DSjSB2sjQTBY9Ky_pH14o2ciS5WNIEju5QnVU4txAF243YSjVv6-zYfP2HV17OHRFF_WvN9VK8wzZQQ-YmeQ4RLEijhMWmzaUj4yy88GDP5GsmDPD7sBx-YMuhNsyw7o0Its3rWEliX8d7SKv77X2ff4x4=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-3.jpg"
 						alt="Elevii au acces la computere performante"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -246,7 +246,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUDQ3jNYKegNAgV_7KKpTajCxijsOs28HJ50FTqoVotYcsH6gmH8UNugTIZJKqy0Bno_j9zIfLnb4WmJXy58hyBqN9AXN48wXibgaYdUBU7viXGWS0RjQYhCJDuAdgJkAI-kkVCrZabwRyUfKLdCjbzMKZPzgnqYccGZTbG5cf_MVLTcEVOLm0KWgIb2MCKISykvZDdvx2GzCyGFAvjW8lcSm6CgTbU3-a9qezIp=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-4.jpg"
 						alt="Muzică și Tehnologie digitală"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -348,7 +348,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUCGWf_vkrtWfeWy0T64iucqAcjPwYbzZAObSbHU2NvsO6y-1FFw306HMAuD31Dwux_JvIwfQY03EBIjwmvjZHe_s2n4Cm3WcEDca1-iLHkpxwVSmemsFnJcnz6XBbrvbnIikY4tn2kvOgqMuUrzHszxfA0LWrD8rTv8IoQp6GqihubxqGPfSuBhbclkJSE-PJZwU2NiX-5lzb88yCqQcJIV5Z0fhonh94KfsuZa0Yk=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-5.jpg"
 						alt="Ziarul școlii realizat de elevi"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -363,7 +363,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUD-WBuNuStYqew57_JS6zR658hltDv4vZOxx4SaSq89nHzHVWqvNCA5LGsk_fqt9_blu2iE9ITJqiFptxlX1vqVpG2Pp5RlaZVghUcPQC3-RH-Ey01_SXl5-FMjZiFanuuubuIWRcaVajeXwXC6gwAFl2j42s2web2cOFVjoRzbgUVotpF1RGEsHcX080ckDb1J3Hw_mO9Q0yI6YCZXLDL5O-vb9rq5ln_tjF87epE=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-6.jpg"
 						alt="Elevii se implică conștient la luarea deciziilor"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -378,7 +378,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUCW2L5jQ-JJfvT-SORija_ZYBsH17VfP0ht07d2fFSbUq3GnbJvf1sR2o5B00W65sfWv6JLVBbPcnNo2cgClEHvLQHng0C3NJg413_ve40A5MvCAgcK86nbEgVIqbETjuVxQS4fA5cFysjI-npbjhtnTFEyrf-zZz-8XaUrPOdyavfqKq1RolSob3g6LlOJEPH-A8GLapB7LjhPaiCygrN94PMYZuVuLqSVJMmO=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-7.jpg"
 						alt="În instituție predomină starea de bine"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -393,7 +393,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUDLjWrEp-D0I8ISq5jERGGCtHSlabic7LFv1_ML2fkwiPgCu3N6I-BkdLXPAJfwW_zAmIJAlMqp4pybl__wJGmiqHcXITGKoDTo6rlAK5oV-KPRDcvKBRwrduir7IMsPuqZoLM6MzNbM6iRsri31Yb4OdzZ8guWV9U053dEeXrLyT9bQTbHbUTSDy7LP1YEOdft4gacJ9QexHTXTqkVNKbmuo5umUs0u96cxqE435c=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-8.jpg"
 						alt="Săptămâna Artei — ediție anuală realizată de elevi"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -458,7 +458,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUCYOqis6AQNZk3jiszuYHQSrzWN3ncjd_DggnWLFKXMqZ4A0KK643vqSinmG1rhu2MlNiWumVRR5z9uORx0dCwsukOVldSsNvTyJPjHFb3WS2_zgetf9RUuWe6zS6vWVd4QktnQqpTXHwVFHhrwDlszQPt1-efZ1tlXrkQwKW744vO_WE-sXnPNkBSOS4KI0h8x2QSgr1oj5QC7MEssrLRalIyMyAzflLjaBOAio4A=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-9.jpg"
 						alt="Cadrul didactic a decis predarea cursului Design grafic"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -473,7 +473,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUDwiKNVna-NY_D0Muml81JQBlrQixI3NLlUVQgZKuvto36UXk0ojXjzYAlJ_h3bhzgH3Zx6P_hdV45nbbIcbXMMpjaSe2i-flxF13s5HyPCQeS12hWWgz0xt29hTbJ2IZFk6zCwlJgPxCZ5bLIeQCQ59qydSX8f67Lsz2DIrKiQB2DABXc_WigkuokiWK8SqBDQGOOVXQp87MeAV6qk7-x-LjbXgUfsMv7KebvX0GY=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-10.jpg"
 						alt="Progresul cadrelor didactice are impact benefic asupra elevilor"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -488,7 +488,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUBaCe-qSc7bUvzs0NDdkJ24RtFIchFFvZcJ6hKhb9pYCXMpnjjhrs84qbAHJjPBVqv5PrPbfwPFNX1rFzDiUSD2-0TPJqVOkVoKJHG9eDYWQogEiHlrAZR9pss1DJqxSX8GTpW5s0j2XISI8yThms69hqiFBNvjvwsDA32XyD9FprQqHB77aYFX3XnQpblqGwnyZtV_fvQmL8g2TsZ_CO11HzWiZ8M05x4__cWd=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-11.jpg"
 						alt="Cadrele didactice selectează modalitățile de evaluare"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -503,7 +503,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUD-V0pFiUBqSpdwaeMiFtf2A9yCvGL-7xnbl5mqkHbyWlu7fcLfcR7FKewATYWzaJSPyn4KyGc51_ia4Y4_en1eEK2-2pukEy9X1jrLRVLFFEfOpwr9g-mtuT89nNU0kFp0JFiq5e4m8XrWS-7IwLx7qiyYlklLd75st2NNXhG838lxoQtsQb9hQXaeQFAjgkHlT4H3UiAUts-QIcpQSU5RR_ACYgFzg0Q7mNhn=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-12.jpg"
 						alt="Inovația digitală — parte integrantă a identității educaționale"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -562,7 +562,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUBMsKefxgwHNwLZBaJXZwFW5wgDwWnN3Vylm3UxCx4WH2MSgUtGsEbdcL0JWXGC-2rrUz8QDCcARmCtrcetQ6QhrOphPjRWDy3sZniDHa18MHtmGoHKS3UvQrYNgKrGNjz_N_oIbyFq6PWwm8d694v2_eeaGk0iSGOwcx42pTKWP4Xbzn0HclozWfsHo8ZyV9Xt8YuCPQninQiDrgK8YPHOOj3R2HOzCzBCvEgp=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-13.jpg"
 						alt="Succesele elevilor sunt diseminate la nivel de comunitate"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -577,7 +577,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUB8mulhgXFwQhzjESDkFmgWCacbc9rnFLB4snw_G9SZB15yK1Gi6eqp9lCS5pi6uHnbaLO-cyjs8WGNkvbVQPSAIDT1zxpu3pJeyeIFp1h_klHRmUQJtuA64m4pAgjaGm22vkDihTewITHrgJFr0-_SpN24bYrWgaMiKjJuUZKvuryj45JCn5cGV72RvD1zJzBTMLI5y9jmUFOWIe5TJix1LMJi2dA8hiC7RtpgPAY=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-14.jpg"
 						alt="Competențele transferabile formate în școală asigură locuri premiante"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -592,7 +592,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUDgGJGcU97KfWa_QVfqroyyaQcnI4sSGSDOeZQEiuGzJZrGvwYHjEfcwythYuQ2H5zV3RA2nBl88LaVG1ts_vl0fpyzU1t4RWj_Ib0HXL3avbO8YgPsJ2b16bXC0f59ViSGaoR2kM-X1zYemaOhLrDOpaPqfqut4okI0hffpn7fIM5kycgjsXpKB_0GMddAEf2gQZzOU5IRlBc_GNRU_Z7jDDAn5b8zxTvCNjpPEg0=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-15.jpg"
 						alt="Adaptarea modelului de învățare"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -607,7 +607,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUCGDZAYlU9eL0YVg52cPd2HQT5r61uNoib2Zlxa0x5F31Wu1uj4eYs_6pc2eSydpHk-C2oqpb9b5NIVez0wmhD_QM8PHTbznriqgdExdz9UbC0sWKBWqQNHYPx1sIGo7l3_yFuRXQRrC_av8MRBhNI28OJWcfuCsgL3YursBBLF1Tt6xByPchO3PSTUwMJjXUE1vMnUY5ebnIDCyA7-p0_8IMRr7V2gpw9ICvPO=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-16.jpg"
 						alt="Elevii au un rol important în viața școlară"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -653,7 +653,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUBu0iFTpQy6iIECtGzUAdk_Wv_OrYZHcFkk5PBCOPLcnT-kJEDWe7tnkJsRH7kY_dVV24CjkFciwqtJA6LfE2z4SUy_D9xZHejeIU47vI8eNuN8URq4BN1bN0--SLA2FTgi1CBbJ9AAcqS8CAZMW9A0QgAG4oLyOrvHghhEvmuh3j8T5cAzESJnpkh_tAsdFPWDLDDtf0lpXXQ613Yi-N27dZJ-orM6EJNwTA6dfrY=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-17.jpg"
 						alt="Elevii și părinții analizează portofoliile digitale"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -668,7 +668,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUDzOwsCC0ox5BMQIpgg-96UOfg596cJO4WjSFb4HuocUSoP-_lY8RZ0VsMyBmYpnUWrBR9R5N4YkgI8T5RSrikKQzDzoWBUv4yTm0kEgVdjwG7t3ai7EuqvvIgS9Pq0m5XQ4PaCaBNE4WFQQxPxkLHtdgBiEgUaVIQbouaj7EGFP7ZPIFxHdF1pwfnd2pWAD6PCGV91BjBS6IZzhN2TC8PfUMrai0MxnYHD117M1YE=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-18.jpg"
 						alt="Utilizarea tehnologiei în laboratoarele școlare"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -683,7 +683,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUDRNbGhDYSqlr52d1aAph5Di4I4ge6h9bC5tV1GqswDXXGnJzK_bjHSeIhkKoKkiSpofgnz9KSBX2jgyKAyMCOoOuTzFRHLv7y1xdGT_yz0FI2I1d25Blsz5pUUTG0cSjDDCDMq8sA9zK9F3MQqB8JHdEY9IOqluT2ZD9HPZalj_fy_Usp8rf8moXmhnHPFqPuSHfPKj54yylTEsKyXVWz3WNqmYcc4BG92ARbc=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-19.jpg"
 						alt="Laboratoarele asigură procesul de cercetare"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -698,7 +698,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUCiF83dAcwsSG90FJPm5tvf16ENg6MYnvQoGDQWfz2rs1D4RW_jrCAzT6qrzBRaznnR-gmbmPvBTu2AAireYbFIweEmGFYQ-tbbdsUfmnrLL0jTX9hq6XiZVQi1KIXlh8pSs3_epM85Lq-hBwxsf6EqLU9Jp46OuFkKy4Sa4fbSAheDTNLkXVVLtiFG0Vv2CB_qN3Ha6QxAKVCOL5GEkkHzubdAPvyGn5Of4kBYewo=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-20.jpg"
 						alt="Analiza datelor contribuie la dotarea sălilor de studii"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -747,7 +747,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUAL_xQvQVdVOjtmvAsNDgKebYyyyg2H0s2UCOFwbofbpsU5lojzvGhQOfc4mbG71c9yxlidDCE1bvohom1kD0fh8GqjJ4I8dN51mzvppz1cfXHHkBgXSn7KNrCC3Xq9eZQdMfBb6b1X5HspsKgMdy23Bc2YbsmwSa5Hx698i0-EgPS_pGrn38Aq5O0SI1PKrS_uio5EPbQjBtt_feuttO6JV75MKL7NUgFpxI8S0EE=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-21.jpg"
 						alt="Elevii realizează sarcini complexe prin colaborare"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -762,7 +762,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUDkd_ca92MX5zyGuqtb8r0NnjoCxYD4exj-DoZBdis0on8Y8ZqMjoSDJjdnASmdjNQrgbFsWdEunZ1hR_rcxtrSuVbwLJ5hK2m2B_FNVJ6-t_THhMkCPSoAvzqWZIsoJCWny4TrLzctbCtGaV1GFWPC6okb1wiygy_CQ9FLPEi0X_vh4HX1Gwqd5D-WbRxgZhH3cx4bBKkij0RPPD8iiHXSXgvG2iAHuNWZHSHLUkc=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-22.jpg"
 						alt="Învățarea bazată pe proiect contribuie la bunăstarea elevilor"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -777,7 +777,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUAuH8RkB59JZIyuuKwYLtVcQpp_e__VUOFNu8Oyz94C476UB6ZZPmNxAf_hhB1PTZfFScPw3ed2G661JoflTu5iwIktNRyhE-hqS7QwxmJkNzstlvAcABBfGW2NsISZQx6jr1BVoTuFufJ5HGyA1LgaRZYsd_fsJsFyt_qEdxZ_ugmuKgXyW4LoZvABjW1lj1q_afuw-pDNazFbppgik13ZRXfc6268ZYQbQGu_NdA=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-23.jpg"
 						alt="Prin abordarea STEAM dispozitivele digitale devin instrumente de creație"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -792,7 +792,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUCTX7Z92x-Vdlq3istqylix6ZsJtNmkKYWfO2hIWK0IG-aLXmFBj7FbBNE3Iix9hIrqNWkPjffL3LOAWP36jA_OQZ-7badZmeRGOAyfq49yK-3Hhw3Tg30b4WrsUUAd-qrHcwuKwVIYX1h9R2Hmebf_bFDlq_dOXRpEnk3qCETw2OZH5G8UtXvM7Yt3LlUKXb1G70iR-E3DWKL1ImQUVDtc5aQnseXZFWqc-3cG2JY=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-24.jpg"
 						alt="Mediul școlar — dovadă a învățării integrate"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -838,7 +838,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUCPNKRd6KVLDkF8ZGClvw-JgZbWdp9A83j8gjIFrp4GH1UPLfNIXePa8FtYJpuReababuP6BIPvya5AU3M7PL5ZdFKJYrl_Y2EFbJARHtFNVwSmNh2aGpAf5XBtMiqQGZdpAyAGJWbKXu9BZJJfZGtFH_GTHU0y-dwK6r-W61qeHZEGt_jsX2KyKKJu00LdZE9A3G0nja3Pn-Dj-srRU_cpSjK4iI0mQ9Jh_rM5=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-25.jpg"
 						alt="Lecția de robotică, clasa IV"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -853,7 +853,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUDQ-CsXc4o5GAVjxRLFjIEfJPpBLB4JoMDA8NTyG69tv9lm_Y7uZB51bhet41hjNuN6Kh4jeA-AwKVmEHqZ5IqpPmAHq_auHl2AffweKzZ0gl223I8rGgZAstnpqFay1Gnqn7mjbM4qMonfkuYJboeEjABCZOlYKl3pTspB8WxMml62J12MkU7iBrML3RY1ytRD-ZV1FHuPsG4fUEcCfTPEOWgbxF0p5K_sxr_5jJo=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-26.jpg"
 						alt="Confecționarea măștilor de carnaval"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -868,7 +868,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUDz5Gs53NcbhANmzUFYSCf2OCNq1Jq0eLeYRUuJCiI6BMkSN_rKRsgk4K9JCe23sjpP5KwxQi4aaWFtiSYXph6QBLRLISscP2_wq_gApO35cwkyDps2NHJSJ-EYwRS5BGGKNNmQ6qZfoVPRFearNpJojllEW8rEZlxwRD7eUNQ94EK6rlnsrzBeD2ke6Tgmu_0Y2iV-a5p3xdZoqU2qIZHm694-gnR6ti6p026z5y8=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-27.jpg"
 						alt="Ziua proiectului, clasa a VII"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -883,7 +883,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUDaFcNnAgsdLQ0NVe8DcfQN4e2bRnBu_anAWKleDZlBzud0eomuTjs3AIMiV7nhS5s5qhbyPJIZ3zEtY2uCiGNKr7ox9X9EAG_iu5xR2ubmoXbLOgFeNac7UQjhmTS9VN1hmdqYp-7pQPmccBxp0ATkcnE0R5sIsLk9c-65SyqfProlkMjd7Wwh3z936AWRV9PTXDybRbX3nQ6yd7tX-n30jXkm_3BQYwzsHKT-=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-28.jpg"
 						alt="Lecția de economia casnică"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -948,7 +948,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUBa20spmo697QvTwMol8-8Xh9CaE7Q9AUJVizXBKbes3R20HIvZ50a86XxtmjpOx75ms6oqndUNOg3d3Lh71g-nLxzo6YMJPGwBWxBK-a90lUXuhU8pnYP8XXilQhgikGVWaUE6f9UWbnikGnfRxRgaNWvyi65vrWde7Apk1O0G7y2KGD2hd11BRlNc4X_kL0VUMoRmM_-w8dxHNgPS87IqPiELHXEw8HB1n58fM18=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-29.jpg"
 						alt="Elevii utilizează responsabil Inteligența Artificială"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -963,7 +963,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUCjv4vC1k7ApBx9DZOhtpK7h4uWaphCbcHM_sgTF2KUTnmlRRVTqQ7GpE0cg8McmzJWu7G_aULYXil9c2iccGiwW8g1qCwThMbiLRvfQGlS-ZzskowQIAk9ftxTKdOV0sNbTFIDWJNuQX_rbtnCullggMJoEEXKe5iS06RR89PDGbivMrFJGaXSn6WRfUJvV8ec_osWmtJvN6MyAMDDsuGBnlWTtUCNSvYjHdtMUHI=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-30.jpg"
 						alt="Cunoștințele din fizică și tehnologiile îi ajută pe elevi să rezolve probleme complexe"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -978,7 +978,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUDVB1_lXusA-_JUgMBH-ARtMapWQIe8EHPhvSbAy00lanerhsOxmSBBexEgFZgzqqDaPyaZyLeyvV62WDiv8w8DIFfV4Sv2BV_Z0GoRI-lrKDd_2QswIpEMKus6h7is5R2PxfTD85IjFpUujLHlbwtlA76vZRtArlYbspaufyYLPFqX0w4AvZlvL7MiooQNZYZAxM7jiu-8P2nhSW0xEuYFs7Uk_VTssruOag5Avhc=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-31.jpg"
 						alt="Învățarea semnificativă dezvoltă competențele elevilor pentru concursuri"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -993,7 +993,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUDXwIZbZJTkkenJOZk92MAH9mwfc9D890rbGMk4u5at3v-f4NilnOZkjnSPENjGvilA-FgxZmNyBDWX6cal8xojC2RL9PGDdP1O0mFFMn9LV15dhoUWzP0zWQ2VYHYrx6yFq-Yq9cM9YVQVip8veBcE8tj3DiW-DSlobvuV7sI6PMWfy5UW_yMGfiANckFELieLPjiY0sOb1DsQ8dyPcz_LM1SbJjGS-1dnjJoPG8M=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-32.jpg"
 						alt="Tehnologiile sunt utilizate pentru a potența procesul educațional"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -1012,7 +1012,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUC5MKhuMcpfdLZx8tH0D0R9VWIgQ-bcQFd9EWp_xQSFdwKaBmQbyMS84iUu_daBMR3ZaFcgI0VGYWgngxypN1JWbbWBAcxo2r452dSIbzBIfDEq2-r7431IaOCUJlbc9WNhzeIZIXPj_0PYuBvyiYat46dPWvutUArGlP0SvREijY5rS0lM5KnUhSg9VDmEGiDnj-fibiHV6EdAzMbI3N21TtKCl7MgJM9b6A7xK2I=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-33.jpg"
 						alt="Școala este o comunitate deschisă"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -1027,7 +1027,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUAweaQqYnGd8c4Kl5IdazslB7n6s7g3UrGhpt2BLdX1moCgBY8Bd3nvZ-QSyJqMPIGTw-dMqtt10LgsSshqKn_-7e1UZK3iMS7lukZOSn6M54A-6O0x83gecTh0DsdKCGeRGTeiGxDty7Fkn04bNDO5mgX34bvWX0aK6X417log3lm4_3XQaqH3XRZMl0OVnVXTsyLHO5ok9iE90lZjmylJRONuj1OObOtGjWem0iM=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-34.jpg"
 						alt="Tastarea oarbă"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -1042,7 +1042,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUBjqYfahaUIiznTjPBN04zV7FS6lvCINNwJtDQYV1BykeF6ljLk6P1oPMVybFxJxnCxaEeCSImfPkRZ-eZXCqmYCMvA3KX-aDkBd8XxBEysh2papVktP_Jr3BYXs2cZegHPvbP23M1_o_RFGZv2GvA4sicxBzJX9FDB7iwHhp93-85dMMdcvXWGfF0Dd3k-TijfTRPOyFXW6UKk61ZgkKaxZUb11JqEGdoWUpeSb4g=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-35.jpg"
 						alt="Elevii realizează tastarea oarbă"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -1057,7 +1057,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUAlDR-asyfgaKpsI7WVPujtR1v0TYBB-1EV8b6vqbhqb9sIYEBMukBEcANlUyBiCANU_YmA0hC3Q0WcuCCxvGGyG-sTUKlgS_2YEESRp41cQ53emH6dIgOnYuHuAmz-R8z1wv5K93vo8FhuNJ9VwHzgedi5GftT3s5Vmv-zVkvflXQmafuMC34bHyD0Cr4F7ySqVkJL5vmoO11hCMGUSzQEiVs5waqx175gbB-eYsk=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-36.jpg"
 						alt="Prin joc elevii învață gândirea algoritmică"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -1119,7 +1119,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUBY5C6vcBSiWMARmNzvx-AIeC6F_Hku5OM4gs7NTix2HVmeWJHoXLNNtardmKL89XpkVl33lR1W_CBjNFVUDjnTUkB9qiNRNS-LVmGvsEOWsmZ5--Rb1xvtdgtFdxAuPPhQfChYgONyryk8-WNskSha3axblh-FQiI5qvTasrUhkWuTc4cZMjF5q1CmngXVCUsL3daHW43ABt7bFqnxIQrVj9L6xlfxmW4I_QkuRAk=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-37.jpg"
 						alt="Procesul educațional relevant dezvoltă competențe transversale"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -1134,7 +1134,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUCCeyqs-IrTE2A0-wZpw6zBDy25oY8ttFh2_oxCpGzAu-fw7mIIxfRHWZp4IHBMqhrm3zSfiA-H9IbUqg6wliP2-mBePHkVXyare5jLf1TPLSq4cymG2gDEelEkIg_xwIcdkvY88fYYrJwpo9hOpI0taeMuVUxFEYLW90Oz2q9QHF8jGJNSxT7-XJaA2eFOnyTErCn21vWh4VZk4S1HLkem-w3TYhi-B0lOmqRK4pA=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-38.jpg"
 						alt="Elevii ghidați de cadrele didactice devin cetățeni digitali competenți"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -1149,7 +1149,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUDM59VBH4X5KslFryuJ60XOlMBHH52tc-XsXL90QgWU_ipAZlsNcpylvvXqvxZgNzj5uMLJ6gJClz4VHsbwQQ7WDwSUe2Mzwa7phczg5qHB9dk-teaXCVbBULX8KsBpzR5cG-3d7SHR2ab0l6nkt67p75L74VC8LcpfZFlWmv1YBLKSL_5YKq4dKn9NcZWjPAMCu6zZdgYoI_S4OzmuC4NC0HN_cHBBJLAsy62D12Y=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-39.jpg"
 						alt="Utilizarea dispozitivelor digitale pentru pregătirea examenelor electronice"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -1164,7 +1164,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUBDeiUW_txiVB7KNfurcICEZ0dxFiZUuAekTlHpeUFrVaRhRgI32tl_VxJRVjy70f0LX3WAAw_bH8lz_8ApfntHEChbq_iYm6oZQCbRgwlbbU7fNMYDWbJqw25Iq_wB-X3QUDr5Ugq_T3V1kuFuqMdLNe1OPcOLXIQ59WnICPZDMfMr_8X8xovUMM-sz8dNCM0QGo4Wioca-d15wI8kNTnBkBduTUsANjT1MLb7u7s=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-40.jpg"
 						alt="Școala pregătește elevii să învețe pe tot parcursul vieții"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -1268,7 +1268,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUAP7nYT3afhcOcvBm1LLZJyHrD0-8Pl_vydO5nNotUX4rk-vD1jouSEmuOPbzwjtDRwfflkHspq7LNfoeo3Lw8YEwsvrk8bzrb8Y0pPcAsdgLmS2pLnPhmo0axA0G7EopAXlLcNW-kkjDz6bRmLmbDY_sA6Byh3BtgiLttikA49Opv7w2_rfiVWRGBCoI4YIux1VWI66PH5FLST27t0981XNuGJxuY0kDm402Z0=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-41.jpg"
 						alt="Cultura organizațională și pedagogică este vizibilă în mediul școlar"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -1283,7 +1283,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUBNGYkRk4uy9CcccCZAIeByjx7xp7fZ5_oLYBizR4RUcKemdGNH0bHbeJX-i-gM0N1KEUIu4e68qUcg2YKe-LbocXOSV7dIzWY7y8GXnvD55Mp1A_t3CA4hKw_bGmC1hCfGG2vHbXRMHkfWUaJwu7149IYDJ6Xi-uh_ldcBzzYTs9fK47bWW8FY4S7ONIKEm6vVg0JpLiFGBeZ96QZLWFNc4d3GYuON9Bzi6PhQ=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-42.jpg"
 						alt="Școala este susținută de părinți și comunitate"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -1298,7 +1298,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUDkhQJJ5JOQ8yuZgQZLd80MRyfSWkzXaeLz7swx6-Qg3x_Sxk7aH7wtMbfTYFeAOwEOX4W4ZEmfSeQHoxGlDVl4nnGLxHC22yq377ktAGv3Gsf3UmiXUFLoQGWERNnJdKmSLhQcWakTE-dxPbmiuYYLiDhqrI1FZ8perrevmGoUiYZuiWT_ZctV26J8HmAY8Ep-_SprLn__at-TBMn2JWgKy_GVPgHejikFx18R=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-43.jpg"
 						alt="Transformarea digitală bazată pe încredere între management, profesori și elevi"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -1313,7 +1313,7 @@ get_header();
 				<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 					<img
 						class="object-fit-cover"
-						src="https://lh3.googleusercontent.com/sitesv/AA5AbUAWM6gE1qYtJ7UxtHUfz-rVSOpQ2vZ5g5Gihy-n7NCAdS4EnoJo6EsKWpOEt18RgP1EfMjjw7dNjgJxXq50YQPANnHv9idsyiQLs3ABcLTGmVXBZOIr1tUpBeA2M1oem6CLD2xk5Slg8RZ_KFua2FLinS33YGScsl4qvVniPDgC43Wa7ChgiKanSJMSzb1azQDA_C4N2kIWtvKuzgeMyzsCDEbIYvPO-Uzyz1oyPk0=w1280"
+						src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-44.jpg"
 						alt="Tehnologia este o rutină invizibilă"
 						referrerpolicy="no-referrer"
 						loading="lazy"
@@ -1328,32 +1328,32 @@ get_header();
 	<!--Block-->
 	<?php
 	$talin_carousel_images = array(
-		'https://lh3.googleusercontent.com/sitesv/AA5AbUAIiIjHKJbP2t-3OnAubMkLkmV-QIG1L32ZbwspddksiMyuvXu_TfutJeS68Ai2wGnkwL4CelyWwZuCnssr16m41ARATQ58WWtPujfAMDDBW7jBz6FIt7YvuwJoQ5ABzykwHOsjRHWqIl-t-DsgImXxezSpZV7oEg7co-Dmz7bovaptVAdVpRs10Gko8WI=w16383',
-		'https://lh3.googleusercontent.com/sitesv/AA5AbUDoGSWGD2dHOaoSIWn3xYoQl2mACi6f97RVMwr46YdV4s4L8FbrLYC9npn-SQ4mEGk5cFdPDpyWBjuA2C_QE8JtKpyNmV1UOvD8Lavbadk864eSgGUVkwyKDCJgC67EHWYT4fxVO-WKHUuflQeKsz0mqRkgKixg1OHyiYXUoTEa3E3m6cg4-Z1ev4z0=w16383',
-		'https://lh3.googleusercontent.com/sitesv/AA5AbUDbEY2u-in8PGiPLvckxG_vuU_0lSZwFOBYauRNh_a-R1M_YCjiGmlc0E3RJE0Cd2kVTMF9EgpyGcrzkJbGvtBKGXotrKfoTTeYlMAEyk5SkJGdbfzlFRxRyMG4eHCqkKsdrneFDdzju_aTjI1FMcIOu3ClMw5mmFTxc_JA9R9psOD72Y1qey_DBwfBWNc=w16383',
-		'https://lh3.googleusercontent.com/sitesv/AA5AbUApGZhXDaUuvfOGFEVJwckyb97yzvHRvMRceOV_p8nr6WO7xkJYebYS8UY537xaFOhsRtkk1rQyAF2u7qIMiHe8fP9LGM8msTFoSOPm5thffPx96uwh-PcUaL60LlgBHxhW-jv6ASJtrm3Fo_DGt3vKOzq6Ck3KWD884aPBdmVPdaFrnw-iZzPoiUaJpi0=w16383',
-		'https://lh3.googleusercontent.com/sitesv/AA5AbUB4dacEhhF3k9TTGp4OZbk3lAKxksHig6M9MPS4Xr53umcr2WlkBDJ9UgCKtbj7cz0HzVQZseY7PQe9INlVPb-TUpjqWc-tGorKrxn5XprWFolLnXvdy1dqYkY_AVw3b-JAkJwRTtPfA7mu8m8sDn_n4x-QlbNT-Ubtam1wkt47u1C2eyNIJyXVzwOi=w16383',
-		'https://lh3.googleusercontent.com/sitesv/AA5AbUDJRN3iJDoQIPd6D7793XEfSGHwML6vpH6cT4l5zAtMK88ze_9elukbw0HEH_7vSzhdVPAOn8i-mb_SHxJ-xPf3VpTB9nDasx81nQUFrV8pDgfGfJv4FI06WhIvZHkkHXDqRl-FP0y_0T9-v_-z1gSoibS7VOSzcGaJvDf80_1P3GXdObbtRNbva_VDgso=w16383',
-		'https://lh3.googleusercontent.com/sitesv/AA5AbUDMIE_r8c-IVsu6cj8DjTmDFGwvhvxj-L35eqOnAArGpVhHkccNij-2dGNCd4I3rtDFpaHTvH9i67wANHDUVMqQ2TGvfSp4jVHHNZ8QYHIPsr8pSkwjAf1UZ7ob3IlwmBI6TZQtL0U2zAOz-4tQ1dGBiE2JCUzfX65o8gfhWx5Tk34280DGaTvrcz6jq80=w16383',
-		'https://lh3.googleusercontent.com/sitesv/AA5AbUDAZgmnwSgMdD6ZUL1BIpgRTv2NMnANDeKnZGWAJMXG2nh1wVGu7wojPtphrAAKKMjQl2XJJiyeWCwVB2NCvuQhmtrXzco8XmksM3TRBEJdkcPK4xk24xzjNVnpCNnB_ZWkHSvdybGyJpCv40fGv90eTYAusoUpy-KJRlMSQ_IMNl8UNpu7kOy5pMM2k-w=w16383',
-		'https://lh3.googleusercontent.com/sitesv/AA5AbUC0O37Bor3VGh9uwAm2niqZYSxia8epouSD7FIR20XJhmhgrzvOS8nuemjgq4MYFBOZXJnmet9P8M8tQ1PAFTFpVra8Wi56F30Fsi0rzdp22B5KAu7Sxlr8HSDAiI3Lp73ffAEpBHGpKXBOuVmzRLvX9EUGz5BJwniKuBU9vO6xQcriQNo1l10vgZNZO1Q=w16383',
-		'https://lh3.googleusercontent.com/sitesv/AA5AbUD65_gJfpzcJwgoZGUi9czkn1vO7YQ-eaBd2foO2brnj2w_R6VG8K5TP1Cwa8rZrEBuZs2dwiQBrCzMcNuO3ru0IkR8VbxwYHMwer0VnthPnUnXjMnYjBsK_ey_-KEnX6iMdPtfxC-3uaCzkvKKy5YbriVx2dUB1hVjC_am7aTwelzOerKro_JkK7U1F1E=w16383',
-		'https://lh3.googleusercontent.com/sitesv/AA5AbUCXnySXTRohKzYuWhXwLBKFQ-jAFffMbC1zfI8WnGLRv5R-h8OQTHk8T6jw_33fho584N1Pdh7Yx6SQOAzEG14XOUtLZtYnqlt-Y40RvtFbLhiipOZp0uJisq-bqeM1zv4DgqCES1Akem9pUGKykjm0l16c8TSJNZuAAb1by_4x9xRpjFzjdCOCeOZH5MI=w16383',
-		'https://lh3.googleusercontent.com/sitesv/AA5AbUBobhfrqwPjBnX1WGU9mc14M6zWgBzdG5yUtthmhwNXHcZ1DpzhCM90Tujsjg0SHadoKGVbBYuu5_92DObY3YWjRl-tjf1Ad87kTtkciWkGXIuNzwYR0vLJxflbYhpTTLTupBfuZmWcEH-AeabKP484kYSf_dYfF5FRXi8ZhsZu70-HKX1NlI1v7ScT=w16383',
-		'https://lh3.googleusercontent.com/sitesv/AA5AbUBrdLKPRr_2E_0KoqRwuYA2FXZFhxVHG5Y5IVkK4UhRpvDkcADHkpwCTuqPa3Cgdcv1qNbakEehRsxrOAnn67k8L2F4Qzc3QutAtT_Hh03M342kHKqQeQ_EodIpJr1GJLyp9-LM8KLtv85W7pZQ37x9hkWlDg1awcst-4kReB53DdIb80SHs_Q9sntuGzo=w16383',
-		'https://lh3.googleusercontent.com/sitesv/AA5AbUB2UFCUGuU0vpcis3huaPvdpBw90K9Cf_H7A8ihWDbY0xgcn9iF_gXjeOsbqd8wGpuVa46g1TiihNfG6bw_eBG5PKR0HLS2qe9SZ8a1iQTqH7lK_Yj39uBE-ERUwqNWihYrTAQjF6hiapN1-AYGSR1GGoWczUFpCEiwJ1SOTxAjmaEGTPRaTLnoYvGZ6oE=w16383',
-		'https://lh3.googleusercontent.com/sitesv/AA5AbUAXqyTmbqMZnZhwHy2WPJc9ZQPOZyFNu4_MOP6oPFFhp6GBmrf2ZRj5AXAAZB0FHM0Ef3aghDeYyXmpRq_Xgpl8tPg-cMRCojFIRCQkjMO_y0DQ8L8egJMD6xgPgu3eVuWpV4CeKAShM7cyEuBTDhQaf7GK0W3PB_JdS3sk1fI5MhEBbanFiFkq5l5Wdi0=w16383',
-		'https://lh3.googleusercontent.com/sitesv/AA5AbUDMxibCfAInihjv5aQGaVuBL82jdLRsyBPdlDkJiefg1O2WD29r7F1NkGifHvqn6FbphUXqnr6yWpsctHNyuIG7v9UuH1OQ6SeEPJDGeKtsk9Kfa1KqD9_n4cCd-Pyo5TmI0QMwQrVwTNerDi_ROsPflZ2WZyGJ3P_wXMn9991PFU9589pfUhwx7qRtDgs=w16383',
-		'https://lh3.googleusercontent.com/sitesv/AA5AbUDzsFgPTADxU-uxb2myXoQ93YNBe2K6SD8xq6hNEytlja2p5hbSEhqvFscpM9OEm5JogJuQ_YmXgi4WqFnbQQnZcCEvxQdxAyE6nvZ6OBlgjSCp5RI1jc8ESxCy1pmuWq2a_ItGLS-ktRjsy9sa-kVIZgZ_9STwyP4X76id8SbnJwNo4qQSSAVwshGh=w16383',
-		'https://lh3.googleusercontent.com/sitesv/AA5AbUCBCqsX3LFu7bs3QJ2HZ0HpzKrByVtn_kssJ0WRBtK20rHIVh8TChfbXlYjYcUS6hCIhf2q9tEteKOLVElwQdJuyTjIKz_xW-FXeP5LCzkiiWjUrXnJ8a6_okb53sPox9FnEbsx1m3vbTyo00VUQXoZtFUJ8rObf3zvReUJqVXid0Izk7x9j8sBkXEPqxY=w16383',
-		'https://lh3.googleusercontent.com/sitesv/AA5AbUABOUrGTDHTXbUBwWvKcAnZ0MfSKBTWozSjeIkAhp6joUDqHht2wKGhuu07clbeCvZr_MW5o73CapS7HGGnjhhaXeZGSpYcFqTjohGMFoCld5nKdqBpomJzUjlv2L-FBWFMnhLhwhRN7S_SKmreYHt4a4tUYTI6RzOdLcz95iC6Q6_wSYS86-PHcPvE=w16383',
-		'https://lh3.googleusercontent.com/sitesv/AA5AbUD4PrgoiQF8U1-4KPSfJYxfkjxONtn5cXNG2xUzaPQ_6PPL4ZWWyZILYmSDHHo2OwB6kE0cn3zwf3MiLbr3KICl8yVPfgiv2Xe57P0lYKtLg-viU2UKZaMsTd94tP11LqUN81KwY4ifWqinNDt7XcPojUT3QfZFY1hgnOqY-8aslfXmpwtm7OtAqhwhtdA=w16383',
-		'https://lh3.googleusercontent.com/sitesv/AA5AbUB7WwfE2cDzL65sUrrVzjthEK4fqh_HFS88ThWqaofC2rPodFbca4PZQsSKhCYghZ5El6mgTHktq0Vd0W7ZCSzZn96O0RoHxa7AehC3bz4TPhl6A68YcPBZkdfnnhMqWsArTeb7rp5kTHKwD1eWySdkVifbG-jHlbVgOp4bJPpNlxkxY0X67-5BpvLt=w16383',
-		'https://lh3.googleusercontent.com/sitesv/AA5AbUA6hnxIgBEVlKGQjzVB2x_ynqvreqGglexeGRUXpmvbobrBh_g_oxxLn9Yzsig2phH5X7NzsWbo54QFiBvVrJN_mxDSzVTd0J-OQsbmL1oJCVJWJt5NIRfyeSERudEv9RjwBvd05I7bp0c3TniSmaMtJ-11C-QR6FcPO3sPb4eLwSrlxQZTEH1RW6Mp=w16383',
-		'https://lh3.googleusercontent.com/sitesv/AA5AbUDzX4FV1nRQduruDEyUKFtj9anrY0l-Bh_BTBbVgd-jK6xOfQ0-DArDvBClj28LR6zq8DLt3X01PDeBzMPpOWK429VYAHJjUZp3aBV5Lv5pUamqQCle1xjubyy55SLSM4_fwtD1xkFgVQm8bpYoDxLMeMOnghL1zJXgfRJwdvaTG_EW5DFJzAxftNhG=w16383',
-		'https://lh3.googleusercontent.com/sitesv/AA5AbUBSYMc2DXYShN7L_Zcl_b_gJFj-JroNBCzr5xWf_Xo_IFtUVnMHfTaJYmNHXpem6l4uWkN3279yWoX61gfMdTuwb1A7u6XhWY6gkW8FyOfcxhhduEhJ6i1cLnJFLcVRLS6Sne_UjSu2V1dDlXEvf7Q1yJBcr4VAwsDC1NPs_f2bYbqCl85BYFLBNSv9Xww=w16383',
-		'https://lh3.googleusercontent.com/sitesv/AA5AbUB8UhHjWqqQsjqxaqqG55r1Q-H_FN2kH6ShyERJeTaPuHDVitJC8eyIa9EfGXLi__ApLKqtnPKQNblGixrmWRnTyvfUEtN-n0z48hv283_l-wx9nVRIZ6S7FGlR14ER7IsBMq3o4jdrjl244-BtOcPb3grV5_2XKCEdagFB2u9HqlgcmaLsdVr5yv0apBk=w16383',
-		'https://lh3.googleusercontent.com/sitesv/AA5AbUDR13emfMMKWTDU4iEQiOJQSfGQaED41JYRjooYmV4EbwueLmkRbl5rv0CaTT_S6TNuJppc0scply9oHiGORSufeNQkrPC0OiFvrBQ4a2zckoXx5nWvBO8fYWVwEp2mildSblMDyyGbpkJYrzl4cvOtLDfCK8nGe1pWIQGhJRki7DCc-fvYO2jMulu9=w16383',
+		'https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-45.jpg',
+		'https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-46.jpg',
+		'https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-47.jpg',
+		'https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-48.jpg',
+		'https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-49.jpg',
+		'https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-50.jpg',
+		'https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-51.jpg',
+		'https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-52.jpg',
+		'https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-53.jpg',
+		'https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-54.jpg',
+		'https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-55.jpg',
+		'https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-56.jpg',
+		'https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-57.jpg',
+		'https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-58.jpg',
+		'https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-59.jpg',
+		'https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-60.jpg',
+		'https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-61.jpg',
+		'https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-62.jpg',
+		'https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-63.jpg',
+		'https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-64.jpg',
+		'https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-65.jpg',
+		'https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-66.jpg',
+		'https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-67.jpg',
+		'https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-68.jpg',
+		'https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-69.jpg',
+		'https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/tall-70.jpg',
 	);
 	?>
 	<section class="row py-5">

@@ -9,6 +9,7 @@
     "watch:css": "sass --watch assets/scss/main.scss:assets/css/main.css assets/scss/custom.scss:assets/css/custom.css --style=expanded --source-map"
   },
   "dependencies": {
+    "@fancyapps/ui": "^5.0.36",
     "bootstrap": "^5.3.6",
     "swiper": "^11.2.6"
   },

@@ -31,7 +31,7 @@ get_header();
 			<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 				<img
 					class="object-fit-cover"
-					src="https://lh3.googleusercontent.com/sitesv/AA5AbUBWCDfRyTZOod-4UtHhjoyIZSwSxkwNlhQQbZAGact-V0aoQ5K9F2-Ssgb-9RATE1RdMgB2Y9hCMKVxlTVymHWvoZxLGEKgOZ4274Pmczit21expCbjTI_jO3T7CBiljZRAOwmg4l810gv0G9-ou5wMVqJxIfAFiJ0069xt72dTc1_pqfQFp9_5Ucp_DHvhcveAuV05qQmGKA4Cd87ElLWXdO9OqPG-Wdv-TYjkIxo=w1280"
+					src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/pae-1.png"
 					alt="PAE Gymnasium — imagine 1"
 					referrerpolicy="no-referrer"
 					loading="lazy"
@@ -43,7 +43,7 @@ get_header();
 			<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 				<img
 					class="object-fit-cover"
-					src="https://lh3.googleusercontent.com/sitesv/AA5AbUCAg2Wc720733umj3rzSdes3j2dHSm3_SjlBZexp6Efwke-vNdSQ-gkFctnWaVEUwcH_xQShVhrAG5IgFlIO7wXJkMjFoaPGgV41ec8cCJnkk4DkbQVwD6wPpIPjqN8KqBGLLiOfISye-wSYBR1xmIlpKHJz1AGSMtfg7JwCzPjfwPt3atg6ETvJ97d=w1280"
+					src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/pae-2.png"
 					alt="PAE Gymnasium — imagine 2"
 					referrerpolicy="no-referrer"
 					loading="lazy"
@@ -55,7 +55,7 @@ get_header();
 			<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light">
 				<img
 					class="object-fit-cover"
-					src="https://lh3.googleusercontent.com/sitesv/AA5AbUDQEDmbsqJza3rSQtrGF-6eQcquIs9NVwnR0nSqft0IFclsthYdD7lcR6zjiuHaW6Hn1q27vL7_Bbv6YOCQpPKxYRjXt3-R3nchd-yVZY8DE1hjmznijVtBEiQJSP_CQ3n5kkaX-zpEh3B3tILB577IT6D1PklTEk5jK3Jk6vj8Vm_laZWScIrySHAop44erbj0DSa_J_484UWIVscg-SPCG-tlzR69aH5XB-ohlVk=w1280"
+					src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/pae-3.png"
 					alt="PAE Gymnasium — imagine 3"
 					referrerpolicy="no-referrer"
 					loading="lazy"
@@ -74,7 +74,7 @@ get_header();
 						<figure class="swiper-slide mb-0">
 							<img
 								class="pae-carousel__image"
-								src="https://lh3.googleusercontent.com/sitesv/AA5AbUALgQX_mwed5fAkXj4CZazTGPNkMeeT33rKCXa1jMsT6OzaHEr2jPYqZPtV1qjn1OY_1XJSE5XN3riVVEEGBCOdkjMkxB0Vh51xKaDpniWbQq1NxwKvIdYgMytBRKFLYDnNOl2y90q2WWRORiuVRe2r6XQlKuD7_Yuu5pZcY2mTgKPTnGJgTpy-hwI4Nb4=w16383"
+								src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/pae-4.jpg"
 								alt="PAE Gymnasium — imagine din carusel 1"
 								referrerpolicy="no-referrer"
 								loading="lazy"
@@ -84,7 +84,7 @@ get_header();
 						<figure class="swiper-slide mb-0">
 							<img
 								class="pae-carousel__image"
-								src="https://lh3.googleusercontent.com/sitesv/AA5AbUBgW2gCsTiZ4Hm00yyfQHxXlhbUwYY7iuJzK1WOTmKHorn0AKPmPDQ_5oOtQkR30pBNGwSGolDjLPa0J_qVi6UuNIAMN5A_DHM-_PK_Gt9zbJypd90C6-bw_FP9U4veriwUhh3fxdYRoHeW0BVL4B8iY-gfMPuu9xv2CqeIpcegzvKfEO5UfWNjskwMZCA=w16383"
+								src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/pae-5.jpg"
 								alt="PAE Gymnasium — imagine din carusel 2"
 								referrerpolicy="no-referrer"
 								loading="lazy"
@@ -94,7 +94,7 @@ get_header();
 						<figure class="swiper-slide mb-0">
 							<img
 								class="pae-carousel__image"
-								src="https://lh3.googleusercontent.com/sitesv/AA5AbUBTedkcTeC3jXzRPjP2fRkPt-Q6QllFMsnbhUTYKn0nnAS69Qac5DzwNbZuX5gXmQhjVqdZSsPe7mqHILVbchXxmmiLqbZ4DpD8CRRi2KA587gpHIxoZ-Noz7RKaw7xl1r8RFNoQR4tMAHFWz__lHGw1cLbDx3RnuQ7f7Yg11pkwvXuzg82SZVwW6Zbc1k=w16383"
+								src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/pae-6.jpg"
 								alt="PAE Gymnasium — imagine din carusel 3"
 								referrerpolicy="no-referrer"
 								loading="lazy"
@@ -104,7 +104,7 @@ get_header();
 						<figure class="swiper-slide mb-0">
 							<img
 								class="pae-carousel__image"
-								src="https://lh3.googleusercontent.com/sitesv/AA5AbUC3DaoCiP0xJSVUueVWfRSHU5NjKY-bdOP8i-CUZl1wqThLtfl2c15v_Ed3mkO857WPNkazbmuYwZiVIvGbY__P73Y5T9kT58UY2MJKiNiw32H84YoZQ9HbUrUhBfOjKIJV3sjOS4v8nZ7zTHG1ZllK-YyISNmXOdK2E8OmjYEm0iRk0kDdqEV4CD0fc1k=w16383"
+								src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/pae-7.jpg"
 								alt="PAE Gymnasium — imagine din carusel 4"
 								referrerpolicy="no-referrer"
 								loading="lazy"
@@ -346,7 +346,7 @@ get_header();
 			<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light mb-3">
 				<img
 					class="object-fit-cover"
-					src="https://lh3.googleusercontent.com/sitesv/AA5AbUDuWC1igaaouD5fhNoHfGsJOqqm46sPN-abwDcSvECwo99owu_J_rpVqUjOfNM_rWbEJZyRGjqQoZlesHWvCmX_EA372KbsqVQxN3liXzPsmp_G17CHpKLo-M8RC2jmEnB66PCVO6biNH_Vpr_p-zPOivyrvlht6tIZ-W8yEHRrTrBuG9_DU6nC5mmYn5P2pRZBmuXCTCYFm_5JVvrgt1JkluLElpCEFspfp22YzzA=w1280"
+					src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/pae-8.jpg"
 					alt="Decizii operaționale autonome — adaptare pedagogică"
 					referrerpolicy="no-referrer"
 					loading="lazy"
@@ -362,7 +362,7 @@ get_header();
 			<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light mb-3">
 				<img
 					class="object-fit-cover"
-					src="https://lh3.googleusercontent.com/sitesv/AA5AbUAyih2E-qG2-I1fkm15Zz_idhOJwDT3H3nCNuU7hMG3vNYpDONoeyFEa8YFDlf9qq9KJgXB6bjUIEHx_Uuo8x2JglHo-6uHBUfSjryx5vvZAVI4a-JId8nnmocKFETp-UOIuAL7GSQdBMmUokj0evs1ML-pmmOwiein1ge5kSmSaDJhmnjwOBr5YCorKV45t8UnyItGUaoL-RZAKbKs4mkssbrZOSiF-fGEcX2u=w1280"
+					src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/pae-9.jpg"
 					alt="Decizii curriculare colaborative — actualizare strategică"
 					referrerpolicy="no-referrer"
 					loading="lazy"
@@ -378,7 +378,7 @@ get_header();
 			<div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm bg-light mb-3">
 				<img
 					class="object-fit-cover"
-					src="https://lh3.googleusercontent.com/sitesv/AA5AbUDPoNGh3nESX6hO6r3htioZWKU0ALLVytcpJ9kvedj46RpXH4xLi56DVdL3JADstkmXUWGc2xt7-lRNRN9NXQJrPYzSa13ne-t92n4XVrbMKKQ3lgRdGxLtkftjP1-qKO0NsU02Vi_TWmQlzgUuResX8h9tsUJbBeSAkQ7QPjmUWRWYN0ylBrSUvA1kfNRhlY3WhDJxyK0JYYAYXuqQuND82-vfPUD_7jtu9uNa=w1280"
+					src="https://accelerator.clasaviitorului.md/wp-content/uploads/2026/06/pae-10.jpg"
 					alt="Decizii de inovare participativă — inițiative ale beneficiarilor"
 					referrerpolicy="no-referrer"
 					loading="lazy"

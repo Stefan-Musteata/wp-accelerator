@@ -63,12 +63,9 @@ $debrief_questions = array(
 
 <div class="mentoring-page mentoring-page--session-2" id="mentorat-maturitate-digitala">
 
-	<section class="mentoring-hero" aria-labelledby="mentoring-s2-hero-title">
+	<section class="mentoring-hero" aria-labelledby="page-title">
 		<div class="mentoring-hero__bg" aria-hidden="true"></div>
 		<div class="container mentoring-hero__inner">
-			<h2 class="mentoring-hero__title" id="mentoring-s2-hero-title">
-				Mentorat: Maturitate digitală &amp; Difuzia inovației
-			</h2>
 			<p class="mentoring-hero__lead">
 				Dacă prima sesiune s-a concentrat pe definirea viziunii și a inovației, a doua sesiune a adus participanții față în față cu realitatea instituțiilor lor, prin prisma datelor. Pentru a transforma o școală, entuziasmul nu este suficient.
 			</p>
@@ -220,12 +217,6 @@ $debrief_questions = array(
 		</div>
 	</section>
 
-	<footer class="mentoring-disclaimer">
-		<div class="container">
-			<p>
-				Acest proiect este finanțat de Global Partnership for Education, UNICEF Moldova și EstDev, la inițiativa Ministerului Educației și Cercetării al Republicii Moldova, și este implementat de Universitatea din Tallinn, Fundația pentru Dezvoltare din Republica Moldova și Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”. Conținutul acestui website reflectă activitățile și rezultatele proiectului Digital Accelerator și nu reprezintă în mod necesar poziția oficială a finanțatorilor sau a partenerilor implicați.
-			</p>
-		</div>
-	</footer>
+	<?php get_template_part( 'template-parts/project-disclaimer' ); ?>
 
 </div>

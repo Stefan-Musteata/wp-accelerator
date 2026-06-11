@@ -139,7 +139,7 @@ $da-purple-dark: #4e1d68;
         border-radius: 0.5rem;
         box-shadow: 0 0.75rem 1.5rem rgba($da-purple, 0.14);
         padding: 0.4rem 0;
-        min-width: 13rem;
+        min-width: 65PX;
         margin-top: 0.35rem;
     }
 
@@ -162,6 +162,89 @@ $da-purple-dark: #4e1d68;
 
     .dropdown-menu > li + li {
         border-top: 1px solid rgba($da-purple, 0.06);
+    }
+
+    .menu-item-gtranslate {
+        position: relative;
+
+        > .dropdown-menu,
+        > .sub-menu {
+            display: none;
+        }
+
+        &.show > .dropdown-menu,
+        &.show > .sub-menu,
+        > .dropdown-menu.show,
+        > .sub-menu.show {
+            display: block;
+        }
+
+        > a {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.35rem;
+            min-width: 100%;
+            padding: 0.45rem 0.75rem !important;
+            border: 1px solid rgba($da-purple, 0.14);
+            border-radius: 999px;
+            background: #fff;
+            box-shadow: 0 2px 8px rgba(15, 39, 68, 0.05);
+
+            @media (max-width: 991px) {
+                margin-top: 10px;
+            }
+
+            &:hover,
+            &:focus,
+            &.show {
+                color: $da-teal !important;
+                border-color: rgba($da-teal, 0.35);
+                background: rgba($da-teal, 0.04);
+            }
+
+            img {
+                width: 20px !important;
+                height: 20px !important;
+                border-radius: 50%;
+                object-fit: cover;
+                box-shadow: 0 0 0 1px rgba($da-purple, 0.1);
+            }
+
+            &.dropdown-toggle::after {
+                margin-left: 0.15rem;
+                font-size: 0.7rem;
+            }
+        }
+
+        .dropdown-menu {
+            min-width: 4.5rem;
+            padding: 0.35rem;
+            right: 0;
+            left: auto;
+        }
+
+        .menu-item-gtranslate-child > a {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 7px;
+
+            img {
+                width: 22px !important;
+                height: 22px !important;
+                border-radius: 50%;
+                object-fit: cover;
+            }
+
+            &.gt-current-lang,
+            &[aria-current="page"] {
+                background: rgba($da-purple, 0.1);
+            }
+        }
+
+        .dropdown-menu > li + li {
+            border-top: none;
+        }
     }
 
     @media (max-width: 991.98px) {
@@ -194,7 +277,6 @@ $da-purple-dark: #4e1d68;
             border: none;
             box-shadow: none;
             background-color: rgba($da-purple, 0.04);
-            margin: 0 0 0.5rem 0.75rem;
             padding: 0.25rem 0;
             border-radius: 0.375rem;
         }
@@ -321,12 +403,39 @@ $da-purple-dark: #4e1d68;
     }
 }
 
-/* Școala 21 din Tallinn */
-#talin-studiu {
+.da-fancybox-link {
+    cursor: zoom-in;
+    display: block;
+    text-decoration: none;
+    color: inherit;
+
+    img {
+        transition: opacity 0.2s ease;
+    }
+
+    &:hover img {
+        opacity: 0.9;
+    }
+}
+
+#talin-studiu,
+#pae-studiu,
+#tkvg-studiu,
+#scoala-nissi-studiu {
+    .ratio > .da-fancybox-link,
     .ratio > img {
         width: 100%;
         height: 100%;
     }
+
+    .ratio > .da-fancybox-link > img {
+        width: 100%;
+        height: 100%;
+    }
+}
+
+/* Școala 21 din Tallinn */
+#talin-studiu {
 
     .talin-toc {
         display: grid;
@@ -377,6 +486,12 @@ $da-purple-dark: #4e1d68;
         border-radius: var(--bs-border-radius, 0.375rem);
     }
 
+    .talin-carousel .da-fancybox-link {
+        display: block;
+        width: 100%;
+        height: 100%;
+    }
+
     .talin-carousel__image {
         display: block;
         width: 100%;
@@ -402,11 +517,6 @@ $da-purple-dark: #4e1d68;
 
 /* PAE Gymnasium – galerie și carusel */
 #pae-studiu {
-    .ratio > img {
-        width: 100%;
-        height: 100%;
-    }
-
     .pae-carousel .swiper {
         width: 100%;
         padding-bottom: 2.5rem;
@@ -417,6 +527,12 @@ $da-purple-dark: #4e1d68;
         height: clamp(220px, 42vw, 420px);
         overflow: hidden;
         border-radius: var(--bs-border-radius, 0.375rem);
+    }
+
+    .pae-carousel .da-fancybox-link {
+        display: block;
+        width: 100%;
+        height: 100%;
     }
 
     .pae-carousel__image {
@@ -2717,7 +2833,8 @@ a:hover {
         border-radius: 999px;
     }
 
-    &__title {
+    &__title,
+    &__subtitle {
         margin-bottom: 1.25rem;
         font-size: clamp(1.65rem, 3.2vw, 2.35rem);
         font-weight: 700;
@@ -3098,12 +3215,13 @@ a:hover {
     }
 }
 
-.estonia-disclaimer {
+.project-disclaimer {
     padding: 2rem 0 3.5rem;
     background: #f8fafb;
 
     p {
         margin: 0;
+        max-width: 52rem;
         font-size: 0.82rem;
         line-height: 1.65;
         color: #7a8fa3;
@@ -3176,7 +3294,8 @@ a:hover {
         max-width: 52rem;
     }
 
-    &__title {
+    &__title,
+    &__subtitle {
         margin-bottom: 1.25rem;
         font-size: clamp(1.65rem, 3.2vw, 2.35rem);
         font-weight: 700;
@@ -3546,19 +3665,6 @@ a:hover {
     }
 }
 
-.mentors-disclaimer {
-    padding: 2rem 0 3.5rem;
-    background: #f8fafb;
-
-    p {
-        margin: 0;
-        max-width: 52rem;
-        font-size: 0.82rem;
-        line-height: 1.65;
-        color: #7a8fa3;
-    }
-}
-
 @media (max-width: 767px) {
     .mentors-hero {
         padding: 3rem 0 2.5rem;
@@ -3613,17 +3719,9 @@ a:hover {
         max-width: 52rem;
     }
 
-    &__title {
-        margin-bottom: 1.25rem;
-        font-size: clamp(1.65rem, 3.2vw, 2.35rem);
-        font-weight: 700;
-        line-height: 1.25;
-        color: #fff;
-    }
-
     &__lead {
         margin-bottom: 2rem;
-        font-size: 1.05rem;
+        font-size: clamp(1.05rem, 2vw, 1.2rem);
         line-height: 1.7;
         color: rgba(255, 255, 255, 0.9);
     }
@@ -3997,19 +4095,6 @@ a:hover {
     }
 }
 
-.mentoring-disclaimer {
-    padding: 2rem 0 3.5rem;
-    background: #f8fafb;
-
-    p {
-        margin: 0;
-        max-width: 52rem;
-        font-size: 0.82rem;
-        line-height: 1.65;
-        color: #7a8fa3;
-    }
-}
-
 @media (max-width: 767px) {
     .mentoring-hero {
         padding: 3rem 0 2.5rem;
@@ -4214,5 +4299,326 @@ a:hover {
         &:last-child {
             margin-bottom: 0;
         }
+    }
+}
+
+/* Mentorat Sesiune finală – Schimb de experiență */
+.mentoring-page--session-final {
+    .mentoring-hero {
+        background: linear-gradient(145deg,
+                color.adjust($da-purple-dark, $lightness: -6%) 0%,
+                color.mix($da-purple, $da-teal, 35%) 45%,
+                $da-teal 100%);
+
+        &__bg {
+            background:
+                radial-gradient(circle at 20% 30%, rgba(255, 255, 255, 0.14) 0%, transparent 45%),
+                radial-gradient(circle at 85% 65%, rgba($da-purple, 0.28) 0%, transparent 50%);
+        }
+    }
+}
+
+.mentoring-intro__card--celebration {
+    border-left-color: $da-purple;
+    background: linear-gradient(135deg,
+            rgba($da-purple, 0.04) 0%,
+            #fff 55%,
+            rgba($da-teal, 0.04) 100%);
+}
+
+.mentoring-guests {
+    margin-top: 2.5rem;
+    padding: 1.5rem 1.75rem;
+    text-align: center;
+    background: linear-gradient(135deg,
+            rgba($da-teal, 0.06) 0%,
+            rgba($da-purple, 0.06) 100%);
+    border: 1px solid var(--mentoring-border);
+    border-radius: 1rem;
+
+    &__heading {
+        margin-bottom: 0.5rem;
+        font-size: 0.78rem;
+        font-weight: 700;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        color: $da-purple;
+    }
+
+    &__names {
+        margin: 0;
+        font-size: 1.1rem;
+        font-weight: 600;
+        color: $da-teal-dark;
+    }
+}
+
+.mentoring-speakers-grid {
+    margin: 1.25rem 0 0.5rem;
+}
+
+.mentoring-speaker-card {
+    height: 100%;
+    padding: 1.35rem 1.25rem;
+    background: var(--mentoring-surface);
+    border: 1px solid var(--mentoring-border);
+    border-radius: 0.9rem;
+    border-top: 3px solid $da-teal;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+    &:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 10px 24px rgba(15, 39, 68, 0.08);
+    }
+
+    &__name {
+        margin-bottom: 0.35rem;
+        font-size: 1rem;
+        font-weight: 700;
+        color: $da-teal;
+    }
+
+    &__topic {
+        margin-bottom: 0.65rem;
+        font-size: 0.82rem;
+        font-weight: 600;
+        letter-spacing: 0.02em;
+        text-transform: uppercase;
+        color: $da-purple;
+    }
+
+    &__desc {
+        margin: 0;
+        font-size: 0.9rem;
+        line-height: 1.6;
+        color: var(--mentoring-muted);
+    }
+}
+
+.mentoring-speakers-grid .col-md-4:nth-child(2) .mentoring-speaker-card {
+    border-top-color: $da-purple;
+
+    .mentoring-speaker-card__name {
+        color: $da-purple;
+    }
+}
+
+.mentoring-impact__card--final {
+    position: relative;
+    overflow: hidden;
+
+    &::after {
+        content: "";
+        position: absolute;
+        top: -60px;
+        right: -60px;
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        background: radial-gradient(circle,
+                rgba(255, 255, 255, 0.12) 0%,
+                transparent 70%);
+        pointer-events: none;
+    }
+}
+
+/* Mentorat Sesiunea 3 – Inovație pedagogică */
+.mentoring-page--session-3 {
+    .mentoring-hero {
+        background: linear-gradient(145deg,
+                $da-teal-dark 0%,
+                color.mix($da-teal, $da-purple, 38%) 50%,
+                $da-purple 100%);
+
+        &__bg {
+            background:
+                radial-gradient(circle at 75% 20%, rgba(255, 255, 255, 0.12) 0%, transparent 42%),
+                radial-gradient(circle at 15% 80%, rgba($da-teal, 0.2) 0%, transparent 45%);
+        }
+    }
+}
+
+.mentoring-domain-card__examples {
+    font-style: normal;
+}
+
+.mentoring-research-grid {
+    margin: 1.25rem 0;
+}
+
+.mentoring-research-card {
+    height: 100%;
+    padding: 1.5rem 1.35rem;
+    background: #fff;
+    border: 1px solid var(--mentoring-border);
+    border-radius: 1rem;
+    box-shadow: 0 8px 24px rgba(15, 39, 68, 0.05);
+
+    &__subtitle {
+        margin-bottom: 0.35rem;
+        font-size: 0.75rem;
+        font-weight: 700;
+        letter-spacing: 0.05em;
+        text-transform: uppercase;
+        color: $da-teal;
+    }
+
+    &__title {
+        margin-bottom: 0.65rem;
+        font-size: 1.05rem;
+        font-weight: 700;
+        color: $da-teal-dark;
+    }
+
+    &__desc {
+        margin: 0;
+        font-size: 0.95rem;
+        line-height: 1.6;
+        color: var(--mentoring-muted);
+    }
+
+    &--2 {
+        border-top: 3px solid $da-purple;
+
+        .mentoring-research-card__subtitle {
+            color: $da-purple;
+        }
+
+        .mentoring-research-card__title {
+            color: $da-purple;
+        }
+    }
+
+    &--1 {
+        border-top: 3px solid $da-teal;
+    }
+}
+
+.mentoring-speakers-grid--duo {
+    margin-bottom: 1rem;
+}
+
+/* Mentorat Sesiunea DigComp – Competență digitală */
+.mentoring-page--session-digcomp {
+    .mentoring-hero {
+        background: linear-gradient(145deg,
+                color.adjust($da-teal-dark, $lightness: -4%) 0%,
+                $da-teal 35%,
+                color.mix($da-teal, $da-purple, 42%) 70%,
+                $da-purple-dark 100%);
+
+        &__bg {
+            background:
+                radial-gradient(circle at 10% 25%, rgba(255, 255, 255, 0.13) 0%, transparent 40%),
+                radial-gradient(circle at 92% 75%, rgba($da-purple, 0.2) 0%, transparent 45%);
+        }
+    }
+}
+
+.mentoring-intro__card--frameworks {
+    border-left-color: $da-teal;
+    background: linear-gradient(135deg,
+            rgba($da-teal, 0.05) 0%,
+            #fff 50%,
+            rgba($da-purple, 0.05) 100%);
+}
+
+.mentoring-framework-badge {
+    display: inline-block;
+    margin-bottom: 0.75rem;
+    padding: 0.3rem 0.75rem;
+    font-size: 0.72rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    border-radius: 999px;
+
+    &--digcomp {
+        color: $da-teal;
+        background: rgba($da-teal, 0.12);
+    }
+
+    &--digcompedu {
+        color: $da-purple;
+        background: rgba($da-purple, 0.12);
+    }
+}
+
+.mentoring-competency-grid {
+    margin: 1rem 0 1.5rem;
+}
+
+.mentoring-competency-card {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+    height: 100%;
+    padding: 0.9rem 1rem;
+    background: var(--mentoring-surface);
+    border: 1px solid var(--mentoring-border);
+    border-radius: 0.75rem;
+    transition: background 0.2s ease, box-shadow 0.2s ease;
+
+    &:hover {
+        background: #fff;
+        box-shadow: 0 6px 18px rgba(15, 39, 68, 0.07);
+    }
+
+    &__index {
+        flex: 0 0 auto;
+        font-size: 0.78rem;
+        font-weight: 800;
+        line-height: 1.4;
+        opacity: 0.35;
+    }
+
+    &__label {
+        font-size: 0.9rem;
+        font-weight: 600;
+        line-height: 1.45;
+        color: var(--mentoring-text);
+    }
+
+    &--digcomp {
+        border-left: 3px solid $da-teal;
+
+        .mentoring-competency-card__index {
+            color: $da-teal;
+        }
+    }
+
+    &--digcompedu {
+        border-left: 3px solid $da-purple;
+
+        .mentoring-competency-card__index {
+            color: $da-purple;
+        }
+    }
+}
+
+.mentoring-steps-grid {
+    margin-top: 0.5rem;
+}
+
+.mentoring-step-card {
+    height: 100%;
+    padding: 1.15rem 1.25rem;
+    background: #fff;
+    border: 1px solid var(--mentoring-border);
+    border-radius: 0.85rem;
+    border-top: 3px solid $da-teal;
+
+    &__title {
+        margin-bottom: 0.5rem;
+        font-size: 0.92rem;
+        font-weight: 700;
+        color: $da-teal;
+    }
+
+    &__desc {
+        margin: 0;
+        font-size: 0.88rem;
+        line-height: 1.55;
+        color: var(--mentoring-muted);
     }
 }

@@ -14,12 +14,12 @@ $t21_url   = da_get_page_url_by_template( 'scoala-21-talin.php' );
 <div class="estonia-page" id="despre-estonia">
 
 	<!-- Hero -->
-	<section class="estonia-hero" aria-labelledby="estonia-hero-title">
+	<section class="estonia-hero" aria-labelledby="page-title">
 		<div class="estonia-hero__bg" aria-hidden="true"></div>
 		<div class="container estonia-hero__inner">
-			<h2 class="estonia-hero__title" id="estonia-hero-title">
+			<p class="estonia-hero__subtitle" id="estonia-hero-subtitle">
 				Experiența Estoniană: Cum 12 Meta-Mentori Modelează Transformarea Digitală a Școlilor din Moldova
-			</h2>
+			</p>
 			<p class="estonia-hero__lead">
 				Estonia este recunoscută la nivel global ca un pionier al educației digitale. Însă, adevărata inovație nu constă doar în echipamente, ci în cultura organizațională, leadershipul distribuit și deciziile bazate pe date.
 			</p>
@@ -265,12 +265,6 @@ $t21_url   = da_get_page_url_by_template( 'scoala-21-talin.php' );
 	</blockquote>
 
 	<!-- Disclaimer -->
-	<footer class="estonia-disclaimer">
-		<div class="container">
-			<p class="text-center">
-				Acest proiect este finanțat de Global Partnership for Education, UNICEF Moldova și EstDev, la inițiativa Ministerului Educației și Cercetării al Republicii Moldova, și este implementat de Universitatea din Tallinn, Fundația pentru Dezvoltare din Republica Moldova și Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”. Conținutul acestui website reflectă activitățile și rezultatele proiectului Digital Accelerator și nu reprezintă în mod necesar poziția oficială a finanțatorilor sau a partenerilor implicați.
-			</p>
-		</div>
-	</footer>
+	<?php get_template_part( 'template-parts/project-disclaimer' ); ?>
 
 </div>

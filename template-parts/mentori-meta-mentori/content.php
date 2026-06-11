@@ -134,12 +134,12 @@ $mentor_roles = array(
 
 <div class="mentors-page" id="mentori-meta-mentori">
 
-	<section class="mentors-hero" aria-labelledby="mentors-hero-title">
+	<section class="mentors-hero" aria-labelledby="page-title">
 		<div class="mentors-hero__bg" aria-hidden="true"></div>
 		<div class="container mentors-hero__inner">
-			<h2 class="mentors-hero__title" id="mentors-hero-title">
-				Mentori și Meta-mentori: Arhitecții Transformării Digitale în Școlile din Moldova
-			</h2>
+			<p class="mentors-hero__subtitle" id="mentors-hero-subtitle">
+				Arhitecții Transformării Digitale în Școlile din Moldova
+			</p>
 			<p class="mentors-hero__lead">
 				În cadrul programului DigitalAccelerator, credem cu tărie că transformarea digitală a educației nu se rezumă la achiziția de echipamente. Adevărata schimbare este condusă de oameni: lideri educaționali capabili să schimbe mentalități, să interpreteze date și să ghideze comunitățile școlare spre inovație.
 			</p>
@@ -296,12 +296,6 @@ $mentor_roles = array(
 		</div>
 	</blockquote>
 
-	<footer class="mentors-disclaimer">
-		<div class="container">
-			<p>
-				Acest proiect este finanțat de Global Partnership for Education, UNICEF Moldova și EstDev, la inițiativa Ministerului Educației și Cercetării al Republicii Moldova, și este implementat de Universitatea din Tallinn, Fundația pentru Dezvoltare din Republica Moldova și Centrul Național de Inovații Digitale în Educație „Clasa Viitorului”. Conținutul acestui website reflectă activitățile și rezultatele proiectului Digital Accelerator și nu reprezintă în mod necesar poziția oficială a finanțatorilor sau a partenerilor implicați.
-			</p>
-		</div>
-	</footer>
+	<?php get_template_part( 'template-parts/project-disclaimer' ); ?>
 
 </div>

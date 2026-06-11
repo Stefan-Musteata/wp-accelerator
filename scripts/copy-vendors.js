@@ -35,3 +35,8 @@ copyFiles(path.join(root, 'node_modules/swiper'), path.join(root, 'assets/vendor
 	'swiper-bundle.min.js',
 	'swiper-bundle.min.js.map',
 ]);
+
+copyFiles(path.join(root, 'node_modules/@fancyapps/ui/dist/fancybox'), path.join(root, 'assets/vendor/fancybox'), [
+	'fancybox.css',
+	'fancybox.umd.js',
+]);

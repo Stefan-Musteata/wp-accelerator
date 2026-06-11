@@ -111,7 +111,7 @@
   border-radius: 0.5rem;
   box-shadow: 0 0.75rem 1.5rem rgba(98, 37, 130, 0.14);
   padding: 0.4rem 0;
-  min-width: 13rem;
+  min-width: 65PX;
   margin-top: 0.35rem;
 }
 .site-header .dropdown-item {
@@ -130,6 +130,74 @@
 }
 .site-header .dropdown-menu > li + li {
   border-top: 1px solid rgba(98, 37, 130, 0.06);
+}
+.site-header .menu-item-gtranslate {
+  position: relative;
+}
+.site-header .menu-item-gtranslate > .dropdown-menu,
+.site-header .menu-item-gtranslate > .sub-menu {
+  display: none;
+}
+.site-header .menu-item-gtranslate.show > .dropdown-menu, .site-header .menu-item-gtranslate.show > .sub-menu,
+.site-header .menu-item-gtranslate > .dropdown-menu.show,
+.site-header .menu-item-gtranslate > .sub-menu.show {
+  display: block;
+}
+.site-header .menu-item-gtranslate > a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  min-width: 100%;
+  padding: 0.45rem 0.75rem !important;
+  border: 1px solid rgba(98, 37, 130, 0.14);
+  border-radius: 999px;
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(15, 39, 68, 0.05);
+}
+@media (max-width: 991px) {
+  .site-header .menu-item-gtranslate > a {
+    margin-top: 10px;
+  }
+}
+.site-header .menu-item-gtranslate > a:hover, .site-header .menu-item-gtranslate > a:focus, .site-header .menu-item-gtranslate > a.show {
+  color: #307e8c !important;
+  border-color: rgba(48, 126, 140, 0.35);
+  background: rgba(48, 126, 140, 0.04);
+}
+.site-header .menu-item-gtranslate > a img {
+  width: 20px !important;
+  height: 20px !important;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 0 0 1px rgba(98, 37, 130, 0.1);
+}
+.site-header .menu-item-gtranslate > a.dropdown-toggle::after {
+  margin-left: 0.15rem;
+  font-size: 0.7rem;
+}
+.site-header .menu-item-gtranslate .dropdown-menu {
+  min-width: 4.5rem;
+  padding: 0.35rem;
+  right: 0;
+  left: auto;
+}
+.site-header .menu-item-gtranslate .menu-item-gtranslate-child > a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 7px;
+}
+.site-header .menu-item-gtranslate .menu-item-gtranslate-child > a img {
+  width: 22px !important;
+  height: 22px !important;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.site-header .menu-item-gtranslate .menu-item-gtranslate-child > a.gt-current-lang, .site-header .menu-item-gtranslate .menu-item-gtranslate-child > a[aria-current=page] {
+  background: rgba(98, 37, 130, 0.1);
+}
+.site-header .menu-item-gtranslate .dropdown-menu > li + li {
+  border-top: none;
 }
 @media (max-width: 991.98px) {
   .site-header #primary-menu {
@@ -156,7 +224,6 @@
     border: none;
     box-shadow: none;
     background-color: rgba(98, 37, 130, 0.04);
-    margin: 0 0 0.5rem 0.75rem;
     padding: 0.25rem 0;
     border-radius: 0.375rem;
   }
@@ -263,11 +330,39 @@
   text-shadow: 0 1px 8px rgba(0, 0, 0, 0.2);
 }
 
-/* Școala 21 din Tallinn */
-#talin-studiu .ratio > img {
+.da-fancybox-link {
+  cursor: zoom-in;
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+.da-fancybox-link img {
+  transition: opacity 0.2s ease;
+}
+.da-fancybox-link:hover img {
+  opacity: 0.9;
+}
+
+#talin-studiu .ratio > .da-fancybox-link,
+#talin-studiu .ratio > img,
+#pae-studiu .ratio > .da-fancybox-link,
+#pae-studiu .ratio > img,
+#tkvg-studiu .ratio > .da-fancybox-link,
+#tkvg-studiu .ratio > img,
+#scoala-nissi-studiu .ratio > .da-fancybox-link,
+#scoala-nissi-studiu .ratio > img {
   width: 100%;
   height: 100%;
 }
+#talin-studiu .ratio > .da-fancybox-link > img,
+#pae-studiu .ratio > .da-fancybox-link > img,
+#tkvg-studiu .ratio > .da-fancybox-link > img,
+#scoala-nissi-studiu .ratio > .da-fancybox-link > img {
+  width: 100%;
+  height: 100%;
+}
+
+/* Școala 21 din Tallinn */
 #talin-studiu .talin-toc {
   display: grid;
   gap: 0.5rem;
@@ -310,6 +405,11 @@
   overflow: hidden;
   border-radius: var(--bs-border-radius, 0.375rem);
 }
+#talin-studiu .talin-carousel .da-fancybox-link {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
 #talin-studiu .talin-carousel__image {
   display: block;
   width: 100%;
@@ -330,10 +430,6 @@
 }
 
 /* PAE Gymnasium – galerie și carusel */
-#pae-studiu .ratio > img {
-  width: 100%;
-  height: 100%;
-}
 #pae-studiu .pae-carousel .swiper {
   width: 100%;
   padding-bottom: 2.5rem;
@@ -343,6 +439,11 @@
   height: clamp(220px, 42vw, 420px);
   overflow: hidden;
   border-radius: var(--bs-border-radius, 0.375rem);
+}
+#pae-studiu .pae-carousel .da-fancybox-link {
+  display: block;
+  width: 100%;
+  height: 100%;
 }
 #pae-studiu .pae-carousel__image {
   display: block;
@@ -2361,7 +2462,7 @@ a:hover {
   border: 1px solid rgba(255, 255, 255, 0.22);
   border-radius: 999px;
 }
-.estonia-hero__title {
+.estonia-hero__title, .estonia-hero__subtitle {
   margin-bottom: 1.25rem;
   font-size: clamp(1.65rem, 3.2vw, 2.35rem);
   font-weight: 700;
@@ -2691,12 +2792,13 @@ a:hover {
   opacity: 0.5;
 }
 
-.estonia-disclaimer {
+.project-disclaimer {
   padding: 2rem 0 3.5rem;
   background: #f8fafb;
 }
-.estonia-disclaimer p {
+.project-disclaimer p {
   margin: 0;
+  max-width: 52rem;
   font-size: 0.82rem;
   line-height: 1.65;
   color: #7a8fa3;
@@ -2755,7 +2857,7 @@ a:hover {
   z-index: 1;
   max-width: 52rem;
 }
-.mentors-hero__title {
+.mentors-hero__title, .mentors-hero__subtitle {
   margin-bottom: 1.25rem;
   font-size: clamp(1.65rem, 3.2vw, 2.35rem);
   font-weight: 700;
@@ -3075,18 +3177,6 @@ a:hover {
   color: #307e8c;
 }
 
-.mentors-disclaimer {
-  padding: 2rem 0 3.5rem;
-  background: #f8fafb;
-}
-.mentors-disclaimer p {
-  margin: 0;
-  max-width: 52rem;
-  font-size: 0.82rem;
-  line-height: 1.65;
-  color: #7a8fa3;
-}
-
 @media (max-width: 767px) {
   .mentors-hero {
     padding: 3rem 0 2.5rem;
@@ -3130,16 +3220,9 @@ a:hover {
   z-index: 1;
   max-width: 52rem;
 }
-.mentoring-hero__title {
-  margin-bottom: 1.25rem;
-  font-size: clamp(1.65rem, 3.2vw, 2.35rem);
-  font-weight: 700;
-  line-height: 1.25;
-  color: #fff;
-}
 .mentoring-hero__lead {
   margin-bottom: 2rem;
-  font-size: 1.05rem;
+  font-size: clamp(1.05rem, 2vw, 1.2rem);
   line-height: 1.7;
   color: rgba(255, 255, 255, 0.9);
 }
@@ -3469,18 +3552,6 @@ a:hover {
   color: rgba(255, 255, 255, 0.9);
 }
 
-.mentoring-disclaimer {
-  padding: 2rem 0 3.5rem;
-  background: #f8fafb;
-}
-.mentoring-disclaimer p {
-  margin: 0;
-  max-width: 52rem;
-  font-size: 0.82rem;
-  line-height: 1.65;
-  color: #7a8fa3;
-}
-
 @media (max-width: 767px) {
   .mentoring-hero {
     padding: 3rem 0 2.5rem;
@@ -3662,6 +3733,266 @@ a:hover {
 }
 .mentoring-questions-list li:last-child {
   margin-bottom: 0;
+}
+
+/* Mentorat Sesiune finală – Schimb de experiență */
+.mentoring-page--session-final .mentoring-hero {
+  background: linear-gradient(145deg, rgb(60.0541353383, 22.3278195489, 80.0721804511) 0%, rgb(65.5, 94.85, 136.5) 45%, #307e8c 100%);
+}
+.mentoring-page--session-final .mentoring-hero__bg {
+  background: radial-gradient(circle at 20% 30%, rgba(255, 255, 255, 0.14) 0%, transparent 45%), radial-gradient(circle at 85% 65%, rgba(98, 37, 130, 0.28) 0%, transparent 50%);
+}
+
+.mentoring-intro__card--celebration {
+  border-left-color: #622582;
+  background: linear-gradient(135deg, rgba(98, 37, 130, 0.04) 0%, #fff 55%, rgba(48, 126, 140, 0.04) 100%);
+}
+
+.mentoring-guests {
+  margin-top: 2.5rem;
+  padding: 1.5rem 1.75rem;
+  text-align: center;
+  background: linear-gradient(135deg, rgba(48, 126, 140, 0.06) 0%, rgba(98, 37, 130, 0.06) 100%);
+  border: 1px solid var(--mentoring-border);
+  border-radius: 1rem;
+}
+.mentoring-guests__heading {
+  margin-bottom: 0.5rem;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #622582;
+}
+.mentoring-guests__names {
+  margin: 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #286872;
+}
+
+.mentoring-speakers-grid {
+  margin: 1.25rem 0 0.5rem;
+}
+
+.mentoring-speaker-card {
+  height: 100%;
+  padding: 1.35rem 1.25rem;
+  background: var(--mentoring-surface);
+  border: 1px solid var(--mentoring-border);
+  border-radius: 0.9rem;
+  border-top: 3px solid #307e8c;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.mentoring-speaker-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 24px rgba(15, 39, 68, 0.08);
+}
+.mentoring-speaker-card__name {
+  margin-bottom: 0.35rem;
+  font-size: 1rem;
+  font-weight: 700;
+  color: #307e8c;
+}
+.mentoring-speaker-card__topic {
+  margin-bottom: 0.65rem;
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: #622582;
+}
+.mentoring-speaker-card__desc {
+  margin: 0;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: var(--mentoring-muted);
+}
+
+.mentoring-speakers-grid .col-md-4:nth-child(2) .mentoring-speaker-card {
+  border-top-color: #622582;
+}
+.mentoring-speakers-grid .col-md-4:nth-child(2) .mentoring-speaker-card .mentoring-speaker-card__name {
+  color: #622582;
+}
+
+.mentoring-impact__card--final {
+  position: relative;
+  overflow: hidden;
+}
+.mentoring-impact__card--final::after {
+  content: "";
+  position: absolute;
+  top: -60px;
+  right: -60px;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(255, 255, 255, 0.12) 0%, transparent 70%);
+  pointer-events: none;
+}
+
+/* Mentorat Sesiunea 3 – Inovație pedagogică */
+.mentoring-page--session-3 .mentoring-hero {
+  background: linear-gradient(145deg, #286872 0%, rgb(79, 70.82, 133.8) 50%, #622582 100%);
+}
+.mentoring-page--session-3 .mentoring-hero__bg {
+  background: radial-gradient(circle at 75% 20%, rgba(255, 255, 255, 0.12) 0%, transparent 42%), radial-gradient(circle at 15% 80%, rgba(48, 126, 140, 0.2) 0%, transparent 45%);
+}
+
+.mentoring-domain-card__examples {
+  font-style: normal;
+}
+
+.mentoring-research-grid {
+  margin: 1.25rem 0;
+}
+
+.mentoring-research-card {
+  height: 100%;
+  padding: 1.5rem 1.35rem;
+  background: #fff;
+  border: 1px solid var(--mentoring-border);
+  border-radius: 1rem;
+  box-shadow: 0 8px 24px rgba(15, 39, 68, 0.05);
+}
+.mentoring-research-card__subtitle {
+  margin-bottom: 0.35rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #307e8c;
+}
+.mentoring-research-card__title {
+  margin-bottom: 0.65rem;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #286872;
+}
+.mentoring-research-card__desc {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: var(--mentoring-muted);
+}
+.mentoring-research-card--2 {
+  border-top: 3px solid #622582;
+}
+.mentoring-research-card--2 .mentoring-research-card__subtitle {
+  color: #622582;
+}
+.mentoring-research-card--2 .mentoring-research-card__title {
+  color: #622582;
+}
+.mentoring-research-card--1 {
+  border-top: 3px solid #307e8c;
+}
+
+.mentoring-speakers-grid--duo {
+  margin-bottom: 1rem;
+}
+
+/* Mentorat Sesiunea DigComp – Competență digitală */
+.mentoring-page--session-digcomp .mentoring-hero {
+  background: linear-gradient(145deg, rgb(34.7012987013, 90.2233766234, 98.8987012987) 0%, #307e8c 35%, rgb(77, 74.38, 134.2) 70%, #4e1d68 100%);
+}
+.mentoring-page--session-digcomp .mentoring-hero__bg {
+  background: radial-gradient(circle at 10% 25%, rgba(255, 255, 255, 0.13) 0%, transparent 40%), radial-gradient(circle at 92% 75%, rgba(98, 37, 130, 0.2) 0%, transparent 45%);
+}
+
+.mentoring-intro__card--frameworks {
+  border-left-color: #307e8c;
+  background: linear-gradient(135deg, rgba(48, 126, 140, 0.05) 0%, #fff 50%, rgba(98, 37, 130, 0.05) 100%);
+}
+
+.mentoring-framework-badge {
+  display: inline-block;
+  margin-bottom: 0.75rem;
+  padding: 0.3rem 0.75rem;
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  border-radius: 999px;
+}
+.mentoring-framework-badge--digcomp {
+  color: #307e8c;
+  background: rgba(48, 126, 140, 0.12);
+}
+.mentoring-framework-badge--digcompedu {
+  color: #622582;
+  background: rgba(98, 37, 130, 0.12);
+}
+
+.mentoring-competency-grid {
+  margin: 1rem 0 1.5rem;
+}
+
+.mentoring-competency-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  height: 100%;
+  padding: 0.9rem 1rem;
+  background: var(--mentoring-surface);
+  border: 1px solid var(--mentoring-border);
+  border-radius: 0.75rem;
+  transition: background 0.2s ease, box-shadow 0.2s ease;
+}
+.mentoring-competency-card:hover {
+  background: #fff;
+  box-shadow: 0 6px 18px rgba(15, 39, 68, 0.07);
+}
+.mentoring-competency-card__index {
+  flex: 0 0 auto;
+  font-size: 0.78rem;
+  font-weight: 800;
+  line-height: 1.4;
+  opacity: 0.35;
+}
+.mentoring-competency-card__label {
+  font-size: 0.9rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: var(--mentoring-text);
+}
+.mentoring-competency-card--digcomp {
+  border-left: 3px solid #307e8c;
+}
+.mentoring-competency-card--digcomp .mentoring-competency-card__index {
+  color: #307e8c;
+}
+.mentoring-competency-card--digcompedu {
+  border-left: 3px solid #622582;
+}
+.mentoring-competency-card--digcompedu .mentoring-competency-card__index {
+  color: #622582;
+}
+
+.mentoring-steps-grid {
+  margin-top: 0.5rem;
+}
+
+.mentoring-step-card {
+  height: 100%;
+  padding: 1.15rem 1.25rem;
+  background: #fff;
+  border: 1px solid var(--mentoring-border);
+  border-radius: 0.85rem;
+  border-top: 3px solid #307e8c;
+}
+.mentoring-step-card__title {
+  margin-bottom: 0.5rem;
+  font-size: 0.92rem;
+  font-weight: 700;
+  color: #307e8c;
+}
+.mentoring-step-card__desc {
+  margin: 0;
+  font-size: 0.88rem;
+  line-height: 1.55;
+  color: var(--mentoring-muted);
 }
 
 /*# sourceMappingURL=custom.css.map */

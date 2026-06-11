@@ -12,6 +12,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 define( 'DA_THEME_VERSION', '1.0.0' );
 define( 'DA_BOOTSTRAP_VERSION', '5.3.6' );
 define( 'DA_SWIPER_VERSION', '11.2.6' );
+define( 'DA_FANCYBOX_VERSION', '5.0.36' );
 define( 'DA_THEME_DIR', get_template_directory() );
 define( 'DA_THEME_URI', get_template_directory_uri() );
 
@@ -93,7 +94,19 @@ function da_enqueue_assets() {
 		true
 	);
 
-	$needs_swiper = is_front_page() || is_page_template( 'tallina-tkvg.php' ) || is_page_template( 'gimnaziu-pae.php' ) || is_page_template( 'scoala-21-talin.php' );
+	$gtranslate_js_path = DA_THEME_DIR . '/assets/js/gtranslate-dropdown.js';
+	if ( file_exists( $gtranslate_js_path ) ) {
+		wp_enqueue_script(
+			'digital-accelerator-gtranslate-dropdown',
+			DA_THEME_URI . '/assets/js/gtranslate-dropdown.js',
+			array( 'bootstrap' ),
+			(string) filemtime( $gtranslate_js_path ),
+			true
+		);
+	}
+
+	$needs_swiper   = is_front_page() || is_page_template( 'tallina-tkvg.php' ) || is_page_template( 'gimnaziu-pae.php' ) || is_page_template( 'scoala-21-talin.php' );
+	$needs_fancybox = is_page_template( array( 'tallina-tkvg.php', 'gimnaziu-pae.php', 'scoala-21-talin.php', 'scoala-nissi.php' ) );
 
 	if ( $needs_swiper ) {
 		wp_enqueue_style(
@@ -148,6 +161,32 @@ function da_enqueue_assets() {
 			DA_THEME_URI . '/assets/js/talin-swiper.js',
 			array( 'swiper' ),
 			DA_THEME_VERSION,
+			true
+		);
+	}
+
+	if ( $needs_fancybox ) {
+		wp_enqueue_style(
+			'fancybox',
+			DA_THEME_URI . '/assets/vendor/fancybox/fancybox.css',
+			array(),
+			DA_FANCYBOX_VERSION
+		);
+
+		wp_enqueue_script(
+			'fancybox',
+			DA_THEME_URI . '/assets/vendor/fancybox/fancybox.umd.js',
+			array(),
+			DA_FANCYBOX_VERSION,
+			true
+		);
+
+		$fancybox_js_path = DA_THEME_DIR . '/assets/js/fancybox-gallery.js';
+		wp_enqueue_script(
+			'digital-accelerator-fancybox-gallery',
+			DA_THEME_URI . '/assets/js/fancybox-gallery.js',
+			array( 'fancybox' ),
+			file_exists( $fancybox_js_path ) ? (string) filemtime( $fancybox_js_path ) : DA_THEME_VERSION,
 			true
 		);
 	}
